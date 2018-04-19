@@ -1,6 +1,6 @@
 ## Ciro Cesar Maciel 
 
-**Software Engineer + Maker + Hunsband & Father - Brazilian, 37 years old.** With 17+ years studying, understanding needs, designing and developing Softwares as an agile business solution.
+Software Engineer + Maker + Hunsband & Father - Brazilian, 37 years old. With 17+ years studying, understanding needs, designing and developing Softwares as an agile business solution.
 
 I am a co-founder in a technology company focused on Production Media (C37 - CNC), support and contribute to Open Source initiatives. In the vacant hours, I am putting my experience in the form of books.
 
@@ -18,22 +18,27 @@ Functions Lambda, DynamoDB. Amazon S3, Route 53, Gateway API, CloudFront, CodeBu
 
 
 **C37 - CNC**
+A company from São Paulo - BRA, formed in 2011 with the objective of designing domestic CNC machine tools and making the technologies of the means of production available to all people, giving them autonomy to create their own products in a personalized and unique way.
 
-description
-
-[Website](https://github.com/c37/website) | [Account](https://account.c37.co/) | [CAD](https://cad.c37.co/) | [CAM](https://cam.c37.co/) | [Controller](https://controller.c37.co/)
+[Plane](https://github.com/c37/plane) | [Website](https://github.com/c37/website) | [Account](https://account.c37.co/) | [CAD](https://cad.c37.co/) | [CAM](https://cam.c37.co/) | [Controller](https://controller.c37.co/)
 
 **Style Guide**
 
-description [style](http://style.ciro-maciel.me/)
+description
+
+[style](http://style.ciro-maciel.me/)
 
 **Brain**
 
-description [brain](https://brain.ciro-maciel.me/)
+description
+
+[brain](https://brain.ciro-maciel.me/)
 
 **Personal Website**
 
-description [website](https://github.com/ciro-maciel/website)
+description
+
+[website](https://github.com/ciro-maciel/website)
 
 
 ### Templates
