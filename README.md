@@ -12,12 +12,12 @@ Functions Lambda, DynamoDB. Amazon S3, Route 53, Gateway API, CloudFront, CodeBu
 
 
 ### Works
-- full professional history [linkedin](https://www.linkedin.com/in/ciro-maciel/)
-- companies and professionals who follow [twitter](https://twitter.com/cirocmaciel)
-- projects in progress and last work experiences:
-
+- Full professional history in [linkedin](https://www.linkedin.com/in/ciro-maciel/)
+- Companies and professionals who follow on [twitter](https://twitter.com/cirocmaciel)
+- Projects in progress and last work experiences:
 
 **C37 - CNC**
+
 A company from São Paulo - BRA, formed in 2011 with the objective of designing domestic CNC machine tools and making the technologies of the means of production available to all people, giving them autonomy to create their own products in a personalized and unique way.
 
 [Plane](https://github.com/c37/plane) | [Website](https://github.com/c37/website) | [Account](https://account.c37.co/) | [CAD](https://cad.c37.co/) | [CAM](https://cam.c37.co/) | [Controller](https://controller.c37.co/)
