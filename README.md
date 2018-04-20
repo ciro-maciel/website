@@ -36,7 +36,7 @@ Working to create a better Style Guide for C37 products, after 3 versions, with 
  - [scss](https://github.com/ciro-maciel/style-guide/tree/v2) - v2
  - [react app](https://github.com/ciro-maciel/style-guide/tree/v3) - v3
 
-I realized that I could create something similar to [Bootstrap](https://getbootstrap.com/), with my characteristics and needs, so I came to [api first/storybook/react components](https://github.com/ciro-maciel/style-guide/tree/v1) - v4
+I realized that I could create something similar to [Bootstrap](https://getbootstrap.com/), with my characteristics and needs, so I came to [api first/storybook/react components](https://github.com/ciro-maciel/style-guide/tree/v4) - v4
 
 
 **Brain** [#](https://brain.ciro-maciel.me/)
