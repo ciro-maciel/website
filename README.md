@@ -1,5 +1,5 @@
 <div style="text-align: right; float: right">
-    <a href="/docs/Ciro Cesar Maciel - Currículo.pdf">simplified curriculum</a>
+    <a href="/docs/Ciro Cesar Maciel - Curriculum.pdf">simplified curriculum</a>
 </div>
 
 ## Ciro Cesar Maciel 
