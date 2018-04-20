@@ -53,7 +53,7 @@ For years my great wife has encouraged me to put my experiences and my point of 
 
 ### Templates
 
-I always liked the Templates / Bootstraps I found on GitHub. I want to start my own.
+I always liked the Templates/Bootstraps I found on GitHub. I want to start my own.
 
 - [React/Preact Application Template](https://github.com/ciro-maciel/template-app-react)
 - [React/Preact Style Guide Template](https://github.com/ciro-maciel/template-style-react)
@@ -70,6 +70,11 @@ In the vacant hours, I am putting my experience in the form of books.
 ### Learning
 In the queue for learning:
 
-[AWS Certified Solutions Architect – Associate
-](https://aws.amazon.com/pt/certification/certified-solutions-architect-associate/) | [AWS Certified Developer – Associate](https://aws.amazon.com/pt/certification/certified-developer-associate/) | [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/) | [Machine Learning A-Z™: Hands-On Python](https://www.udemy.com/machinelearning/) | [Deep Learning A-Z™: Hands-On Artificial Neural Networks
-](https://www.udemy.com/deeplearning/) | [Artificial Intelligence A-Z™: Learn How To Build An AI](https://www.udemy.com/artificial-intelligence-az/)
+- [AWS Certified Solutions Architect – Associate
+](https://aws.amazon.com/pt/certification/certified-solutions-architect-associate/)
+- [AWS Certified Developer – Associate](https://aws.amazon.com/pt/certification/certified-developer-associate/)
+- [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
+- [Machine Learning A-Z™: Hands-On Python](https://www.udemy.com/machinelearning/)
+- [Deep Learning A-Z™: Hands-On Artificial Neural Networks
+](https://www.udemy.com/deeplearning/)
+- [Artificial Intelligence A-Z™: Learn How To Build An AI](https://www.udemy.com/artificial-intelligence-az/)
