@@ -1,3 +1,7 @@
+<div style="text-align: right; float: right">
+    <a href="/docs/Ciro Cesar Maciel - Currículo.pdf">simplified curriculum</a>
+</div>
+
 ## Ciro Cesar Maciel 
 
 Software Engineer + Maker + Hunsband & Father - Brazilian, 37 years old. With 17+ years studying, understanding needs, designing and developing Softwares as an agile business solution.
