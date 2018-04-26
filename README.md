@@ -6,11 +6,13 @@
 
 ## Ciro Cesar Maciel 
 
-Software Engineer + Maker + Husband & Father - Brazilian, 37 years. With 17+ years studying, understanding needs, designing and developing Softwares as an agile business solution.
+Software Engineer + Maker + Husband & Father - Brazilian, 37 years. 
+
+With 17+ years studying, understanding needs, designing and developing Softwares as an agile business solution.
 
 I am a co-founder in a technology company focused to Manufacturing (C37 - CNC), support and contribute to Open Source initiatives. In the vacant hours, I am putting my experience in the form of books.
 
-Today, I work with Internet technologies: React/Preact, Redux, TDD, Git/GitHub/BitBucket, CI, CD, SEO, REST API, GraphQL, JavaScript with ES6/ES7, Node.JS, ExpressJS/restify, PWA, BabelJS, Yarn/NPM, Gulp/Grunt, HTML5, CSS3, Responsive Layout, Cross-Browser Compatibility, Webpack, Styled Components, SSR, Optimize Front End Performance.
+Today, I work with Internet technologies: React/Preact, Redux, TDD, Git/GitHub/BitBucket, CI, CD, SEO, REST API, GraphQL, JavaScript with ES6/ES7, Node.JS, ExpressJS/restify, PWA, BabelJS, Yarn/NPM, Gulp/Grunt, HTML5, CSS3, Responsive Layout, Cross-Browser Compatibility, Webpack, Styled Components, SSR, Optimize Front End Performance, WebSocket.
 
 With Serverless Architectures, based on events hosted on AWS, using:
 
