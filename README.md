@@ -22,7 +22,7 @@ Lambda Functions, DynamoDB. Amazon S3, Route 53, Gateway API, CloudFront, CodeBu
 ### Works
 - Full professional history in [Linkedin](https://www.linkedin.com/in/ciro-maciel/)
 - Companies and professionals who follow on [Twitter](https://twitter.com/cirocmaciel)
-- my profile on [GitHub](https://github.com/ciro-maciel)
+- My profile on [GitHub](https://github.com/ciro-maciel)
 - Projects in progress and last work experiences:
 
 **C37 - CNC** [#](https://c37.co/)
