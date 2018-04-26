@@ -1,7 +1,5 @@
 <div style="text-align: right; float: right">
     <a href="/blog/">blog</a>
-    &nbsp;
-    <a href="/docs/Ciro Cesar Maciel - Curriculum.pdf">curriculum</a>
 </div>
 
 ## Ciro Cesar Maciel 
