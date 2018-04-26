@@ -6,7 +6,7 @@
 
 ## Ciro Cesar Maciel 
 
-Software Engineer + Maker + Husband & Father - Brazilian, 37 years old. With 17+ years studying, understanding needs, designing and developing Softwares as an agile business solution.
+Software Engineer + Maker + Husband & Father - Brazilian, 37 years. With 17+ years studying, understanding needs, designing and developing Softwares as an agile business solution.
 
 I am a co-founder in a technology company focused to Manufacturing (C37 - CNC), support and contribute to Open Source initiatives. In the vacant hours, I am putting my experience in the form of books.
 
@@ -14,21 +14,51 @@ Today, I work with Internet technologies: React/Preact, Redux, TDD, Git/GitHub/B
 
 With Serverless Architectures, based on events hosted on AWS, using:
 
-Functions Lambda, DynamoDB. Amazon S3, Route 53, Gateway API, CloudFront, CodeBuild, CodeDeploy and CodePipeline.
+Lambda Functions, DynamoDB. Amazon S3, Route 53, Gateway API, CloudFront, CodeBuild, CodeDeploy and CodePipeline.
 
 
 ### Works
-- Full professional history in [linkedin](https://www.linkedin.com/in/ciro-maciel/)
-- Companies and professionals who follow on [twitter](https://twitter.com/cirocmaciel)
+- Full professional history in [Linkedin](https://www.linkedin.com/in/ciro-maciel/)
+- Companies and professionals who follow on [Twitter](https://twitter.com/cirocmaciel)
+- my profile on [GitHub](https://github.com/ciro-maciel)
 - Projects in progress and last work experiences:
 
 **C37 - CNC** [#](https://c37.co/)
 
 A company from São Paulo - BRA, formed in 2011 with the objective of designing domestic CNC machine tools and making the technologies of the means of production available to all people, giving them autonomy to create their own products in a personalized and unique way.
 
-Now I will start the organization and unification of all the projects.
+The story about my professional development and improvement I will tell in the blog. Now I will start the organization and unification of all the projects.
 
 [Plane](https://github.com/c37/plane) | [Website](https://github.com/c37/website) | [Account](https://account.c37.co/) | [CAD](https://cad.c37.co/) | [CAM](https://cam.c37.co/) | [Controller](https://controller.c37.co/)
+
+**First Version with GitHub Pages and the Chrome Web Store:**
+
+- [C37 - WebSite](https://github.com/c37/website/tree/v4)
+- [C37 - CAD](https://chrome.google.com/webstore/detail/c37-cad/bacjohjidiopikbeocnpebloihebiane)
+- [C37 - CAM](https://chrome.google.com/webstore/detail/c37-cam/kanmmcphjbpnojplaphiepkklcgmmkgd)
+- [C37 - Controlador](https://chrome.google.com/webstore/detail/c37-controlador/iodomfcbclgacbhdjmpjfcgdjecdkdhn)
+
+**Second Version in Firebase:**
+
+- [C37 - API](https://c37-api.firebaseapp.com/)
+- [C37 - Account](https://c37-account.firebaseapp.com/)
+- [C37 - WebSite](https://c37-website.firebaseapp.com/)
+- [C37 - CAD](https://c37-cad.firebaseapp.com/)
+- [C37 - CAM](https://c37-cam.firebaseapp.com/)
+- [C37 - Controlador](https://c37-controller.firebaseapp.com/)
+
+**Third and Last Version on AWS (Amazon Web Services):**
+
+- [C37 - API](https://api.c37.co/)
+- [C37 - Account](https://account.c37.co/)
+- [C37 - WebSite](https://c37.co/)
+- [C37 - CAD](https://cad.c37.co/)
+- [C37 - CAM](https://cam.c37.co/)
+- [C37 - Controlador](https://controller.c37.co/)
+
+using: Lambda Functions, DynamoDB. Amazon S3, Route 53, Gateway API, CloudFront, CodeBuild, CodeDeploy and CodePipeline
+
+
 
 **Style Guide** [#](http://style.ciro-maciel.me/)
 
