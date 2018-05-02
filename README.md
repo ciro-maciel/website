@@ -64,7 +64,7 @@ using: Lambda Functions, DynamoDB. Amazon S3, Route 53, Gateway API, CloudFront,
 
 Working to create a better Style Guide for C37 products, after 3 versions, with different technologies and approaches:
  
- - [plain css](https://github.com/ciro-maciel/style-guide/tree/v1) - v1
+ - [less](https://github.com/ciro-maciel/style-guide/tree/v1) - v1
  - [scss](https://github.com/ciro-maciel/style-guide/tree/v2) - v2
  - [react app](https://github.com/ciro-maciel/style-guide/tree/v3) - v3
 
