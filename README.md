@@ -14,7 +14,7 @@ Today, I work with Internet technologies: React/Preact, Redux, TDD, Git/GitHub/B
 
 With Serverless Architectures, based on events hosted on AWS, using:
 
-Lambda Functions, DynamoDB. Amazon S3, Route 53, Gateway API, CloudFront, CodeBuild, CodeDeploy and CodePipeline.
+Lambda Functions, DynamoDB. S3, Route 53, Gateway API, CloudFront, CodeBuild, CodeDeploy and CodePipeline.
 
 
 ### Works
