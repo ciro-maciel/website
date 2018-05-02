@@ -2,9 +2,9 @@
 # CSS
 1. Qual a diferença entre progressive enhancement e graceful degradation? Por que você escolheria um ou outro?
 
-        progressive enhancement - aqui projetamos nossa interface com foco nas versoes dos navegadores que nosso publico algo ira utilizar, algumas vezes podemos deixar alguns recursos de lado, que por sua vez recebera atualizacoes constantes (progressive) para os novos recursos da interface.
+        Progressive Enhancement - aqui projetamos nossa interface com foco nas versoes dos navegadores que nosso publico alvo ira utilizar, algumas vezes podemos deixar alguns recursos de lado. Todavia, com o desenvolvimento continuo teremos atualizacoes progressivas (progressive) para os novos recursos/necessidades da interface.
 
-        graceful degradation - desta forma podemos tirar o maximo de proveito para o desenvolvimento de interfaces web, contudo em navegadores mais antigos teremos um pequeno limitar de recurssos (degradation), e mesmo assim mantendo a interface funcional.
+        Graceful Degradation - desta forma podemos tirar o maximo de proveito para o desenvolvimento de interfaces web, contudo em navegadores mais antigos teremos um pequeno limitar de recurssos/funcionalidades (degradation), mesmo assim, mantemos a interface funcional.
 
         Minha escolha seria baseada nos analytics/estrategias/requisitos/necessidades/ da aplicacao, pois como vemos, temos um controle granular de "como" implementar as melhorias e aprimoramentos na UI.
 
@@ -33,9 +33,9 @@
 
 4. Você já usou algum pré-processador de CSS? Qual? Por que?
 
-        Como fui o unico desenvolvedor da C37 - CNC (https://github.com/ciro-maciel/style-guide) desde cedo procurei uma forma de automatizar o maximo do processo, pois o controle de versao dos compoentes, a heranca, a organizacao dos seletores, e bem laborosa no plain CSS
+        Como fui o unico desenvolvedor da C37 - CNC (https://github.com/ciro-maciel/style-guide) desde cedo procurei uma forma de automatizar o maximo do processo, pois o controle de versao dos compoentes, a heranca de codigos, a organizacao dos seletores, e bem laborosa no plain CSS.
         
-        Por um tempo utilizei less CSS, na epoca seus recursos de heranca perdiam para o Sass. Alem de uma melhor heranca para a componentizacao temos recursos valiosos, como: autoprefixer, minify, um controle de versao com NPM, svg Sprite, concat, etc
+        Por um tempo utilizei less CSS, na epoca seus recursos de heranca perdiam para o Sass. Alem de uma melhor heranca para a componentizacao temos recursos valiosos, como: operations, functions, e junto com Gulp: autoprefixer, minify, um controle de versao com NPM, svg Sprite, concat, etc
 
 
 5. Você já usou algum pós-processador de JS? Qual? Por que?
