@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4"
+        crossorigin="anonymous">
+
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+        crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js" integrity="sha384-cs/chFZiN24E4KMATLdqdvsezGxaGsi4hLGOzlXwp5UZB1LY//20VyM2taTB4QvJ"
+        crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js" integrity="sha384-uefMccjFJAIv6A+rW+L4AHf99KvxDjWSu1z9VI8SKNVmz4sk7buKt/6v9KI65qnm"
+        crossorigin="anonymous"></script>
+
+    <title>Tweet Storm</title>
+
+    <style>
+        html,
+        body {
+            width: 100%;
+            height: 100%;
+            padding: 0;
+            margin: 0;
+        }
+
+        div {
+            box-sizing: border-box;
+        }
+
+        .responseQuestion {
+            color: gray;
+        }
+    </style>
+
+    <script>
+
+        window.onload = function () {
+
+            var urlParams = new URLSearchParams(window.location.search);
+
+            if (urlParams.has('debug') && urlParams.get('debug') === "1") {
+                [].forEach.call(document.querySelectorAll("*"), function (a) {
+                    a.style.outline = "1px solid #" + (~~(Math.random() * (1 << 24))).toString(16)
+                });
+            }
+
+            document.getElementById('buttonTweet').onclick = function () {
+
+                var textTweet = document.getElementById('textTweet').value,
+                    tweetList = tweetStorm(textTweet);
+
+                document.getElementById('tweets').innerHTML = "";
+
+                tweetList.forEach(function (tweet) {
+                    document.getElementById('tweets').innerHTML += "<hr><span class='badge badge-primary float-right'>" + tweet.length + " letters</span><br/><div class='text-justify'>" + tweet + "</div>";
+                });
+
+                document.getElementById('tweets').innerHTML += "<hr>";
+
+            }
+        }
+
+        function tweetStorm(text) {
+
+            var CHARS_LIMIT = 140,
+                tweetCount = 1,
+                tweetDelimiter = "/",
+                tweetList = [];
+
+            if (!text) {
+                tweetList.push("The text for your tweeter is necessary.");
+                return tweetList;
+            };
+
+            if (text.length <= 140) {
+                tweetList.push(text);
+                return tweetList;
+            }
+
+            var words = text.split(' '),
+                tweet = "";
+
+            for (var i in words) {
+
+                tweet += words[i] + ' ';
+
+                if (tweet.length > (CHARS_LIMIT - (tweetCount.toString().length + tweetDelimiter.length))) {
+
+                    tweet = tweet.slice(0, tweet.length - (words[i].length + 1))
+
+                    tweetList.push(tweetCount + tweetDelimiter + tweet);
+                    tweetCount++;
+
+                    tweet = words[i] + ' ';
+                }
+
+            }
+
+            return tweetList;
+
+        }
+
+    </script>
+</head>
+
+<body>
+
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <a class="navbar-brand" href="#">Tweet Storm</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+            aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item active">
+                    <a class="nav-link" href="#">Home
+                        <span class="sr-only">(current)</span>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Link</a>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true"
+                        aria-expanded="false">
+                        Dropdown
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <a class="dropdown-item" href="#">Action</a>
+                        <a class="dropdown-item" href="#">Another action</a>
+                        <div class="dropdown-divider"></div>
+                        <a class="dropdown-item" href="#">Something else here</a>
+                    </div>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link disabled" href="#">Disabled</a>
+                </li>
+            </ul>
+            <form class="form-inline my-2 my-lg-0">
+                <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+                <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+            </form>
+        </div>
+    </nav>
+
+    <div class="container">
+        <div class="row">
+            <br/>
+        </div>
+
+        <div class="row">
+            <div class="col-md-5">
+                <h2 class="text-center">Project Requirements</h2>
+
+                <ul class="list">
+                    <li>
+                        While this is solvable problem, and there are definitely right and wrong results, there's actually a lot that is not specified.
+                    </li>
+                    <li>
+                        What was your thought process? Did you draw something? Send it too! Send anything that helped you craft your submission.
+                        <br/>
+                        <span class="responseQuestion">
+                            I try to visualize in the mind the codes that I will implement.
+                        </span>
+                    </li>
+                    <li>
+                        Edge cases that you didn't treat? Is there a way you can apply taste and attention to detail? Not only in code, but also
+                        in the end result?
+                        <br/>
+                        <span class="responseQuestion">
+                            We can think of treating the break of the tweets by complete paragraphs, respecting the limit of 140 characters.
+                        </span>
+                    </li>
+                    <li>
+                        Assume this code is to be maintained a year from now. What would make the life of said maintainer better once she needs to
+                        do it? Can you make her smile?
+                        <br/>
+                        <span class="responseQuestion">
+                            I believe that this simple coding has good characteristics for a functional prototype.
+                            <br/> Through an Architecture, a set of technologies and code refactor we can evolve our projato to
+                            a code of easy scale and testable. Even apply a
+                            <a href="https://ciro-maciel.github.io/template-app-react/#/"
+                                target="_blank">template/boilerplate</a> as I've been working.
+                        </span>
+                    </li>
+                </ul>
+
+                <p class="text-justify">
+                    This **really** shouldn't take too long. One hour tops. I know every job assignment says the same and it's always bullshit,
+                    but this isn't. You shouldn't spend more than 1 hour to do this. If you time is up, write down what would
+                    you like to explore had you more time available.
+                    <br/>
+                    <span class="responseQuestion">
+                        As requested in Requirements, I tried to respect the time for the elaboracoa of the project.
+                    </span>
+                </p>
+
+            </div>
+            <div class="col-md-7">
+
+                <div class="card">
+                    <div class="card-header">
+                        Compose new Tweet
+                    </div>
+                    <div class="card-body">
+                        <textarea class="form-control" id="textTweet" placeholder="What’s happening?" rows="9">
+Etiam posuere quam ac quam. Maecenas aliquet accumsan leo. Nullam dapibus fermentum ipsum. Etiam quis quam. Integer lacinia. Nulla est. Nulla turpis magna, cursus sit amet, suscipit a, interdum id, felis. Integer vulputate sem a nibh rutrum consequat. Maecenas lorem. Pellentesque pretium lectus id turpis. Etiam sapien elit, consequat eget, tristique non, venenatis quis, ante. Fusce wisi. Phasellus faucibus molestie nisl. Fusce eget urna. Curabitur vitae diam non enim vestibulum interdum. Nulla quis diam. Ut tempus purus at lorem.
+
+Morbi leo mi, nonummy eget, tristique non, rhoncus non, leo. Nullam faucibus mi quis velit. Integer in sapien. Fusce tellus odio, dapibus id, fermentum quis, suscipit id, erat. Fusce aliquam vestibulum ipsum. Aliquam erat volutpat. Pellentesque sapien. Cras elementum. Nulla pulvinar eleifend sem. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque porta. Vivamus porttitor turpis ac leo.
+
+Nam quis nulla. Integer malesuada. In in enim a arcu imperdiet malesuada. Sed vel lectus. Donec odio urna, tempus molestie, porttitor ut, iaculis quis, sem. Phasellus rhoncus. Aenean id metus id velit ullamcorper pulvinar. Vestibulum fermentum tortor id mi. Pellentesque ipsum. Nulla non arcu lacinia neque faucibus fringilla. Nulla non lectus sed nisl molestie malesuada. Proin in tellus sit amet nibh dignissim sagittis. Vivamus luctus egestas leo. Maecenas sollicitudin. Nullam rhoncus aliquam metus. Etiam egestas wisi a erat.
+
+Etiam posuere quam ac quam. Maecenas aliquet accumsan leo. Nullam dapibus fermentum ipsum. Etiam quis quam. Integer lacinia. Nulla est. Nulla turpis magna, cursus sit amet, suscipit a, interdum id, felis. Integer vulputate sem a nibh rutrum consequat. Maecenas lorem. Pellentesque pretium lectus id turpis. Etiam sapien elit, consequat eget, tristique non, venenatis quis, ante. Fusce wisi. Phasellus faucibus molestie nisl. Fusce eget urna. Curabitur vitae diam non enim vestibulum interdum. Nulla quis diam. Ut tempus purus at lorem.
+
+Morbi leo mi, nonummy eget, tristique non, rhoncus non, leo. Nullam faucibus mi quis velit. Integer in sapien. Fusce tellus odio, dapibus id, fermentum quis, suscipit id, erat. Fusce aliquam vestibulum ipsum. Aliquam erat volutpat. Pellentesque sapien. Cras elementum. Nulla pulvinar eleifend sem. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque porta. Vivamus porttitor turpis ac leo.
+
+Maecenas ipsum velit, consectetuer eu, lobortis ut, dictum at, dui. In rutrum. Sed ac dolor sit amet purus malesuada congue. In laoreet, magna id viverra tincidunt, sem odio bibendum justo, vel imperdiet sapien wisi sed libero. Suspendisse sagittis ultrices augue. Mauris metus. Nunc dapibus tortor vel mi dapibus sollicitudin. Etiam posuere lacus quis dolor. Praesent id justo in neque elementum ultrices. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos hymenaeos. In convallis. Fusce suscipit libero eget elit. Praesent vitae arcu tempor neque lacinia pretium. Morbi imperdiet, mauris ac auctor dictum, nisl ligula egestas nulla, et sollicitudin sem purus in lacus.
+
+                        </textarea>
+                        <br>
+                        <div class="float-right">
+                            <button id="buttonTweet" type="button" class="btn btn-outline-primary">Tweet</button>
+                        </div>
+                    </div>
+                </div>
+
+                <br>
+                <br>
+
+                <div id="tweets">
+                </div>
+
+            </div>
+        </div>
+
+    </div>
+
+</body>
+
+</html>
