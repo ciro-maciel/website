@@ -4,7 +4,7 @@
 
 ## Ciro Cesar Maciel 
 
-Software Engineer + Maker + Husband & Father - Brazilian, 37 years. 
+Husband & Father - Brazilian
 
 With 17+ years studying, understanding needs, designing and developing Softwares as an agile business solution.
 
