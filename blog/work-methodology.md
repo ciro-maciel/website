@@ -11,3 +11,9 @@ Aqui na [Via Varejo](https://www.viavarejo.com.br/) tive a oportunidade de conhe
 
 - [kanban - metodo](https://targetteal.com/pt/blog/metodo-kanban/)
 - [kanban - david-anderson](https://www.infoq.com/br/articles/kanban-david-anderson-conceitos-e-mitos)
+
+Após a leitura organizei meu fluxo de trabalho da seguinte forma:
+
+[Project-001](https://github.com/ciro-maciel/website/projects/1) com seu Backlog orientado aos [Issues](https://github.com/ciro-maciel/website/issues) ja cadastrados, definindo seus Labels de acordo com no método de versionamento [SemVer](https://semver.org/).
+
+Também adicionei uma nova coluna em meu Board (Tests), onde vou integrar a [Automatização de Testes](https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912) em meu fluxo de trabalho.
