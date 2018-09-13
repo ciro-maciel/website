@@ -9,8 +9,8 @@ Com minha experiência prática no trabalho tenho inclinação para a métodolog
 
 Aqui na [Via Varejo](https://www.viavarejo.com.br/) tive a oportunidade de conhecer [Antônio](https://br.linkedin.com/in/juniorxs) ele tem contribuido para um apresendizado linear sobre novas formas de Desenvolvimento de Software.
 
-- [kanban - metodo](https://targetteal.com/pt/blog/metodo-kanban/)
-- [kanban - david-anderson](https://www.infoq.com/br/articles/kanban-david-anderson-conceitos-e-mitos)
+- [Kanban - Método](https://targetteal.com/pt/blog/metodo-kanban/)
+- [Kanban - David Anderson](https://www.infoq.com/br/articles/kanban-david-anderson-conceitos-e-mitos)
 
 Após a leitura organizei meu fluxo de trabalho da seguinte forma:
 
