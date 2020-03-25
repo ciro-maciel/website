@@ -19,12 +19,16 @@ Connect with me via [instagram](https://www.instagram.com/ciro.maciel/), [twitte
 ### Latest Articles
 - [Git Introduction](https://www.linkedin.com/posts/activity-6493062320330145792-mb74)
 
+### Books
+- [The Modern Web](https://github.com/ciro-maciel/book-the-modern-web) - history and the development of Modern Web Applications - WIP
+- [The Event Web](https://github.com/ciro-maciel/book-the-event-web) - WIP
+- [The Intelligence of Machines](https://github.com/ciro-maciel/book-the-intelligence-of-machines) - My point of view on The Intelligence of Machines - WIP
 
 <style>
   * {
     font-family: 'Montserrat', sans-serif !important;
   }
-  p, a {
+  p, a, ul, li,  {
     font-size: 14px;
  }
  h1 {
