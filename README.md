@@ -30,7 +30,7 @@ Connect with me via [instagram](https://www.instagram.com/ciro.maciel/), [twitte
 <style>
   * {
     font-family: 'Montserrat', sans-serif !important;
-     font-size: 14px !important;
+     font-size: 14px;
   }
  h1 {
     font-size: 26px; 
