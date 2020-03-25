@@ -6,7 +6,7 @@
 
 Hello! 👋My name is Ciro.
 
-I am a husband and father in a fantastic family 👨‍👩‍👦, today, we live in Sao Palulo, BRA
+I am a husband and father in a fantastic family 👨‍👩‍👦, today, we live in <a href="https://www.google.com/maps/place/S%C3%A3o+Paulo,+SP/@-23.6821604,-46.8754814,10z/data=!3m1!4b1!4m5!3m4!1s0x94ce448183a461d1:0x9ba94b08ff335bae!8m2!3d-23.5505199!4d-46.6333094">Sao Paulo</a>, 🇧🇷
 
 I work to foster knowledge and help people.
 
