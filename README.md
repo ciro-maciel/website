@@ -24,7 +24,7 @@ Connect with me via [instagram](https://www.instagram.com/ciro.maciel/), [twitte
   * {
     font-family: 'Montserrat', sans-serif !important;
   }
-  p {
+  p, a {
     font-size: 14px;
  }
  h1 {
