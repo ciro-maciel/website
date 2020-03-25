@@ -6,7 +6,7 @@
 
 Hello! 👋My name is Ciro.
 
-I am a husband and father in a fantastic <a href="https://instagram.fcgh37-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s750x750/90183176_534024477510646_8738879392670186081_n.jpg?_nc_ht=instagram.fcgh37-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=LXUVnkORZ18AX84z2ET&oh=066d2681e4fc530ed6b42f702a408b0e&oe=5EA5E25A">family 👨‍👩‍👦</a>, today, we live in <a href="https://www.google.com/maps/place/S%C3%A3o+Paulo,+SP/@-23.6821604,-46.8754814,10z/data=!3m1!4b1!4m5!3m4!1s0x94ce448183a461d1:0x9ba94b08ff335bae!8m2!3d-23.5505199!4d-46.6333094">Sao Paulo</a> 🇧🇷
+I am a husband and father in a fantastic <a href="https://instagram.fcgh37-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s750x750/90183176_534024477510646_8738879392670186081_n.jpg?_nc_ht=instagram.fcgh37-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=LXUVnkORZ18AX84z2ET&oh=066d2681e4fc530ed6b42f702a408b0e&oe=5EA5E25A">family 👨‍👩‍👦</a>, today, we live in Sao Paulo 🇧🇷
 
 I work to foster knowledge and help people.
 
