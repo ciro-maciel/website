@@ -21,7 +21,9 @@ Connect with me via [instagram](https://www.instagram.com/ciro.maciel/), [twitte
  }
  h1 {
     font-size: 26px; 
-    visibility: hidden;
+ }
+ h1 a{
+    display: none;
  }
  h1:after {
   content: 'Ciro Cesar Maciel';
