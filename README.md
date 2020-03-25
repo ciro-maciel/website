@@ -6,7 +6,7 @@
 
 Hello! 👋My name is Ciro.
 
-I am a Software Engineer, Husband and Father in a fantastic <a href="https://instagram.fcgh37-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s750x750/90183176_534024477510646_8738879392670186081_n.jpg?_nc_ht=instagram.fcgh37-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=LXUVnkORZ18AX84z2ET&oh=066d2681e4fc530ed6b42f702a408b0e&oe=5EA5E25A">family 👨‍👩‍👦</a>, today, we live in Sao Paulo 🇧🇷
+I am a Software Engineer in a fantastic <a href="https://instagram.fcgh37-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s750x750/90183176_534024477510646_8738879392670186081_n.jpg?_nc_ht=instagram.fcgh37-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=LXUVnkORZ18AX84z2ET&oh=066d2681e4fc530ed6b42f702a408b0e&oe=5EA5E25A">family 👨‍👩‍👦</a>, today, we live in Sao Paulo 🇧🇷
 
 I work to foster knowledge and help people.
 
