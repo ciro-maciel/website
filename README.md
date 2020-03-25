@@ -42,16 +42,16 @@ Connect with me via [instagram](https://www.instagram.com/ciro.maciel/), [twitte
   content: 'Ciro Cesar Maciel';
 }
  .container-lg{
-  max-width: 800px
+  max-width: 900px
  }
  
 </style>
 
 
-<div style="text-align: right; float: right; font-size: 11px">
- <span> made with ❤️ by </span>
- <a href="http://nucleus.ciro-maciel.me" target="_blank">
-   <strong>nucleus</strong>
+<div style="text-align: right; float: right;">
+ <span style="font-size: 11px"> made with ❤️ by </span>
+ <a href="http://nucleus.ciro-maciel.me" style="font-size: 11px" target="_blank">
+   <strong style="font-size: 11px">nucleus</strong>
  </a>
 </div>
 
