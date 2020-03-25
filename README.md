@@ -1,7 +1,14 @@
-## Ciro Cesar Maciel 
+Hello! 👋My name is Ciro.
 
-Husband & Father - SP, BRA
+I am a husband and father in a fantastic family 👨‍👩‍👦, today, we live in - Sao Palulo, BRA
 
-Software Engineer ∥ Agile culture ∥ Culture of automation ∥ DevOps culture ∥ DevSecOps ∥ Problem solving ∥ Technical leadership ∥ Scalable and distributed systems ∥ Cloud services ∥ Data focus ∥ Lean Startup 
+Today, I work to foster knowledge and help people.
 
-[Instagram](https://www.instagram.com/ciro.maciel/) | [Twitter](https://twitter.com/cirocmaciel) | [GitHub](https://github.com/ciro-maciel) | [LinkedIn](https://www.linkedin.com/in/ciro-maciel/) | [Facebook](https://www.facebook.com/ciro.maciel.git) | [Email](mailto:ciro.maciel@c37.co)
+I'm the [founder](https://en.wikipedia.org/wiki/Founder), [engineer](https://en.wikipedia.org/wiki/Software_engineer), [designer](https://en.wikipedia.org/wiki/Software_design) and [customer support](https://en.wikipedia.org/wiki/Customer_support) at:
+
+- [nucleus](https://nucleus.ciro-maciel.me/)
+
+
+<div style="text-align:center">
+Connect with me via [instagram](https://www.instagram.com/ciro.maciel/), [twitter](https://twitter.com/cirocmaciel), [github](https://github.com/ciro-maciel), [linkedin](https://www.linkedin.com/in/ciro-maciel/), [facebook](https://www.facebook.com/ciro.maciel.git) or [email](mailto:ciro.maciel@c37.co)
+</div>
