@@ -13,11 +13,11 @@ I work to foster knowledge and help people.
 Connect with me via [instagram](https://www.instagram.com/ciro.maciel/), [twitter](https://twitter.com/cirocmaciel), [github](https://github.com/ciro-maciel), [linkedin](https://www.linkedin.com/in/ciro-maciel/), [facebook](https://www.facebook.com/ciro.maciel.git) or [email](mailto:ciro.maciel@c37.co)
 
 
-## Projects
+### Projects
+- [Plane](https://github.com/c37/plane.js) - JavaScript Engine for Building 2D Element with HTML5 Canvas
 
-
-## Latest Articles
-
+### Latest Articles
+- [Git Introduction](https://www.linkedin.com/posts/activity-6493062320330145792-mb74)
 
 
 <style>
