@@ -14,9 +14,11 @@ Connect with me via [instagram](https://www.instagram.com/ciro.maciel/), [twitte
 
 
 ### Projects
+- [Nucleus](http://ciro-maciel.me/) - Putting all the measurable activities of my life into a system - WIP
 - [Plane](https://github.com/c37/plane.js) - JavaScript Engine for Building 2D Element with HTML5 Canvas
 
 ### Latest Articles
+- [Nucleus - Infrastructure](http://ciro-maciel.me/) - WIP
 - [Git Introduction](https://www.linkedin.com/posts/activity-6493062320330145792-mb74)
 
 ### Books
@@ -41,7 +43,7 @@ Connect with me via [instagram](https://www.instagram.com/ciro.maciel/), [twitte
   content: 'Ciro Cesar Maciel';
 }
  .container-lg{
-  max-width: 800px
+  max-width: 900px
  }
  
 </style>
