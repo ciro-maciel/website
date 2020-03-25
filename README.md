@@ -20,3 +20,13 @@ Connect with me via [instagram](https://www.instagram.com/ciro.maciel/), [twitte
     font-size: 14px;
  }
 </style>
+
+
+<div style="text-align: right; float: right; font-size: 11px">
+ <span> made with ❤️ by </span>
+ <a href="http://nucleus.ciro-maciel.me" target="_blank">
+   <strong>nucleus</strong>
+ </a>
+</div>
+
+
