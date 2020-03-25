@@ -1,7 +1,7 @@
 <link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
 
 <div style="text-align: right; float: right">
-<img width="64" style="border-radius: 4px;" src="https://avatars0.githubusercontent.com/u/349602?s=460&u=cf310de88444a92133decdaa8b8e75ffc5e77975&v=4" height="64" alt="">
+<img width="96" style="border-radius: 4px;" src="https://avatars0.githubusercontent.com/u/349602?s=460&u=cf310de88444a92133decdaa8b8e75ffc5e77975&v=4" height="96" alt="">
 </div>
 
 Hello! 👋My name is Ciro.
@@ -28,6 +28,9 @@ Connect with me via [instagram](https://www.instagram.com/ciro.maciel/), [twitte
  h1:after {
   content: 'Ciro Cesar Maciel';
 }
+ .container-lg{
+  max-width: 800px
+ }
  
 </style>
 
