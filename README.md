@@ -18,7 +18,7 @@ Connect with me via [instagram](https://www.instagram.com/ciro.maciel/), [twitte
 - [Plane](https://github.com/c37/plane.js) - JavaScript Engine for Building 2D Element with HTML5 Canvas
 
 ### Latest Articles
-- [Nucleus - Why?] - (http://ciro-maciel.me/) - WIP
+- [Nucleus - Why?](http://ciro-maciel.me/) - WIP
 - [Nucleus - Architecture](http://ciro-maciel.me/) - WIP
 - [Git - Introduction](https://www.linkedin.com/posts/activity-6493062320330145792-mb74)
 
