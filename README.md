@@ -42,7 +42,7 @@ Connect with me via [instagram](https://www.instagram.com/ciro.maciel/), [twitte
   content: 'Ciro Cesar Maciel';
 }
  .container-lg{
-  max-width: 900px
+  max-width: 800px
  }
  
 </style>
