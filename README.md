@@ -10,8 +10,6 @@
 </script>
 <script data-ad-client="ca-pub-8432926598980780" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
-<meta name="google-site-verification" content="qm8IQ9PEIL20wAqNCuN5_vwNLzHK2Kobk10_9p4Kqww" />
-
 <div style="text-align: right; float: right">
 <img width="96" style="border-radius: 4px;" src="https://avatars0.githubusercontent.com/u/349602?s=460&u=cf310de88444a92133decdaa8b8e75ffc5e77975&v=4" height="96" alt="">
 </div>
@@ -30,8 +28,9 @@ Connect with me via [instagram](https://www.instagram.com/ciro.maciel/), [twitte
 - [Plane](https://github.com/c37/plane.js) - JavaScript Engine for Building 2D Element with HTML5 Canvas
 
 ### Latest Articles
-- [Nucleus - Why?](http://ciro-maciel.me/) - WIP
-- [Nucleus - Architecture](http://ciro-maciel.me/) - WIP
+- [Tools - Why?](http://ciro-maciel.me/)
+- [Nucleus - Architecture](http://ciro-maciel.me/)
+- [WebShot - Architecture](http://ciro-maciel.me/)
 - [Git - Introduction](https://www.linkedin.com/posts/activity-6493062320330145792-mb74)
 
 ### Books
@@ -40,7 +39,7 @@ Connect with me via [instagram](https://www.instagram.com/ciro.maciel/), [twitte
 - [The Intelligence of Machines](https://github.com/ciro-maciel/book-the-intelligence-of-machines) - My point of view on The Intelligence of Machines - WIP
 
 <style>
-  * {
+ * {
     font-family: 'Montserrat', sans-serif !important;
      font-size: 14px;
   }
@@ -56,9 +55,7 @@ Connect with me via [instagram](https://www.instagram.com/ciro.maciel/), [twitte
  .container-lg{
   max-width: 900px
  }
- 
 </style>
-
 
 <div style="text-align: right; float: right;">
  <span style="font-size: 11px"> made with ❤️ by </span>
