@@ -13,9 +13,9 @@ I work to foster knowledge and help people.
 
 Connect with me via [instagram](https://www.instagram.com/ciro.maciel/), [twitter](https://twitter.com/cirocmaciel), [github](https://github.com/ciro-maciel), [linkedin](https://www.linkedin.com/in/ciro-maciel/), [facebook](https://www.facebook.com/ciro.maciel.git) or [email](mailto:ciro.maciel@c37.co)
 
-
 ### Projects
-- [Nucleus](http://ciro-maciel.me/) - Putting all the measurable activities of my life into a system - WIP
+- [Nucleus](http://nucleus.ciro-maciel.me/) - Putting all the measurable activities of my life into a system
+- [WebShot](http://webshot.ciro-maciel.me/) - Allows you to take screenshots of web pages
 - [Plane](https://github.com/c37/plane.js) - JavaScript Engine for Building 2D Element with HTML5 Canvas
 
 ### Latest Articles
