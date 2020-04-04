@@ -57,6 +57,8 @@ Connect with me via [instagram](https://www.instagram.com/ciro.maciel/), [twitte
  }
 </style>
 
+<hr />
+
 <div style="text-align: left; float: left;">
  <a href="https://www.patreon.com/ciro_maciel" style="font-size: 11px" target="_blank">
    support me
@@ -69,5 +71,3 @@ Connect with me via [instagram](https://www.instagram.com/ciro.maciel/), [twitte
    <strong style="font-size: 11px">nucleus</strong>
  </a>
 </div>
-
-
