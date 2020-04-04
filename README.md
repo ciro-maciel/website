@@ -38,30 +38,6 @@ Connect with me via [instagram](https://www.instagram.com/ciro.maciel/), [twitte
 - [The Event Web](https://github.com/ciro-maciel/book-the-event-web) - WIP
 - [The Intelligence of Machines](https://github.com/ciro-maciel/book-the-intelligence-of-machines) - My point of view on The Intelligence of Machines - WIP
 
-<style>
- * {
-    font-family: 'Montserrat', sans-serif !important;
-     font-size: 14px;
-  }
- h1 {
-    font-size: 26px; 
- }
- h1 a{
-    display: none;
- }
- h1:after {
-  content: 'Ciro Cesar Maciel';
-}
- .container-lg{
-  max-width: 900px
- }
- hr {
-  height: 0;
-  border-bottom: 1px solid #eaecef;
-  margin-bottom: 10px;  
- }
-</style>
-
 <hr />
 
 <div style="text-align: left; float: left;">
@@ -76,3 +52,27 @@ Connect with me via [instagram](https://www.instagram.com/ciro.maciel/), [twitte
    <strong style="font-size: 11px">nucleus</strong>
  </a>
 </div>
+
+<style>
+ * {
+    font-family: 'Montserrat', sans-serif !important;
+     font-size: 14px;
+  }
+ h1 {
+    font-size: 26px; 
+ }
+ h1 a{
+    display: none;
+ }
+ h1:after {
+  content: 'Ciro Cesar Maciel';
+ }
+ .container-lg{
+  max-width: 900px
+ }
+ hr {
+  height: 0px !important;
+  border-bottom: 1px solid #eaecef;
+  margin-bottom: 10px;  
+ }
+</style>
