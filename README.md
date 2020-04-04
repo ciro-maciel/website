@@ -55,6 +55,11 @@ Connect with me via [instagram](https://www.instagram.com/ciro.maciel/), [twitte
  .container-lg{
   max-width: 900px
  }
+ hr {
+  height: 0;
+  border-bottom: 1px solid #eaecef;
+  margin-bottom: 10px;  
+ }
 </style>
 
 <hr />
