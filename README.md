@@ -72,7 +72,7 @@ Connect with me via [instagram](https://www.instagram.com/ciro.maciel/), [twitte
  }
  hr {
   height: 0px !important;
-  border-bottom: 1px solid #eaecef;
-  margin-bottom: 10px;  
+  border-bottom: 1px solid #eaecef !important;
+  margin-bottom: 10px !important;
  }
 </style>
