@@ -1,3 +1,8 @@
+<script>
+  if (window.location.protocol != "https:"){
+      window.location.protocol = "https";
+  }
+</script>
 <link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-162788873-1"></script>
