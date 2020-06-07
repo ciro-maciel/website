@@ -29,7 +29,7 @@ Want to start designing your software? Call me for a chat.
 Connect with me via [instagram](https://www.instagram.com/ciro.maciel/), [twitter](https://twitter.com/cirocmaciel), [github](https://github.com/ciro-maciel), [linkedin](https://www.linkedin.com/in/ciro-maciel/), [facebook](https://www.facebook.com/ciro.maciel.git) or [email](mailto:ciro.maciel@c37.co)
 
 ### Works
-- [Odonto  Hora](https://odontohora.com.br/) - Formação de preço como estratégia do seu consultório odontológico
+- [Odonto  Hora](https://odontohora.com.br/) - Formação de preço como estratégia do consultório odontológico
 - [Nucleus](http://nucleus.ciro-maciel.me/) - Putting all the measurable activities of my life into a system
 - [WebShot](http://webshot.ciro-maciel.me/) - Allows you to take screenshots of web pages
 - [Plane](https://github.com/c37/plane.js) - JavaScript Engine for Building 2D Element with HTML5 Canvas
