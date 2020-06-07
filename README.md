@@ -24,11 +24,11 @@ Hello! 👋My name is Ciro.
 
 I am a Software Engineer in a fantastic <a href="https://www.instagram.com/p/B_FxtLjJfeI/">family 👨‍👩‍👦</a>, today, we live in Sao Paulo 🇧🇷
 
-I work to foster knowledge and help people.
+Want to start designing your software, call me for a chat.
 
 Connect with me via [instagram](https://www.instagram.com/ciro.maciel/), [twitter](https://twitter.com/cirocmaciel), [github](https://github.com/ciro-maciel), [linkedin](https://www.linkedin.com/in/ciro-maciel/), [facebook](https://www.facebook.com/ciro.maciel.git) or [email](mailto:ciro.maciel@c37.co)
 
-### Projects
+### Works
 - [Odonto  Hora](https://odontohora.com.br/) - Formação de preço como estratégia do seu consultório odontológico
 - [Nucleus](http://nucleus.ciro-maciel.me/) - Putting all the measurable activities of my life into a system
 - [WebShot](http://webshot.ciro-maciel.me/) - Allows you to take screenshots of web pages
