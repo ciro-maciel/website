@@ -24,7 +24,7 @@ Hello! 👋My name is Ciro.
 
 I am a Software Engineer in a fantastic <a href="https://www.instagram.com/p/B_FxtLjJfeI/">family 👨‍👩‍👦</a>, today, we live in Sao Paulo 🇧🇷
 
-Want to start designing your software? Call me for a chat.
+Want to start designing your logo, website, landing page, selling campaign or software ? Call me for a chat.
 
 Connect with me via [instagram](https://www.instagram.com/ciro.maciel/), [twitter](https://twitter.com/cirocmaciel), [github](https://github.com/ciro-maciel), [linkedin](https://www.linkedin.com/in/ciro-maciel/), [facebook](https://www.facebook.com/ciro.maciel.git) or [email](mailto:ciro.maciel@c37.co)
 
