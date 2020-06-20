@@ -27,7 +27,7 @@ I am a Software Engineer in a fantastic <a href="https://www.instagram.com/p/B_F
 Want to start <strong>designing your logo</strong>, <strong>website</strong>, <strong>landing page</strong>, <strong>selling campaign</strong> or <strong>software</strong> ? 
  
 <a href="https://api.whatsapp.com/send?l=pt-BR&text=Ol%C3%A1%20Ciro%2C%20quero%20saber%20mais%20sobre%20seu%20trabalho.&phone=5511986166966" target="_blank">
-  <strong>Call me for a chat.</strong>
+  <strong>Call me for a chat</strong>.
 </a>
 
 
