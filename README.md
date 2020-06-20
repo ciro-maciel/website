@@ -34,6 +34,7 @@ Want to start <strong>designing your logo</strong>, <strong>website</strong>, <s
 Connect with me via [instagram](https://www.instagram.com/ciro.maciel/), [twitter](https://twitter.com/cirocmaciel), [github](https://github.com/ciro-maciel), [linkedin](https://www.linkedin.com/in/ciro-maciel/), [facebook](https://www.facebook.com/ciro.maciel.git) or [email](mailto:ciro.maciel@c37.co)
 
 ### Works
+- [Principal Front-End Engineer](https://www.vemprapi.com.br/) - a Corretora de Investimentos do Grupo Santander
 - [Odonto  Hora](https://odontohora.com.br/) - Formação de preço como estratégia do consultório odontológico
 - [Nucleus](http://nucleus.ciro-maciel.me/) - Putting all the measurable activities of my life into a system
 - [WebShot](http://webshot.ciro-maciel.me/) - Allows you to take screenshots of web pages
