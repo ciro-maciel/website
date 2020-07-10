@@ -29,13 +29,17 @@ Connect with me via [instagram](https://www.instagram.com/ciro.maciel/), [twitte
 <!---
 ### Works
 - [Nucleus](http://nucleus.ciro-maciel.me/) - Putting all the measurable activities of my life into a system
+- [Live](http://live.ciro-maciel.me/) - 
+- [Groups](http://groups.ciro-maciel.me/) - 
 - [Forms](http://forms.ciro-maciel.me/) - powerful forms Anywhere
 - [Pages](http://pages.ciro-maciel.me/) - quick pages for Everyone
 - [Funnels](http://funnels.ciro-maciel.me/) - 
+- [Pay](http://pay.ciro-maciel.me/) - fast payments Anytime
 - [Chats](http://chats.ciro-maciel.me/) - 
+- [Sites](http://sites.ciro-maciel.me/) - 
+- [Docs](http://docs.ciro-maciel.me/) - 
 - [Reports](http://reports.ciro-maciel.me/) - 
 - [CRM](http://crm.ciro-maciel.me/) - your customer First
-- [Pay](http://pay.ciro-maciel.me/) - fast payments Anytime
 - [Odonto Hora](https://odontohora.com.br/) - Formação de preço como estratégia do consultório odontológico
 - [WebShot](http://webshot.ciro-maciel.me/) - Allows you to take screenshots of web pages
 - [Plane](https://github.com/c37/plane.js) - JavaScript Engine for Building 2D Element with HTML5 Canvas
@@ -49,10 +53,12 @@ Connect with me via [instagram](https://www.instagram.com/ciro.maciel/), [twitte
 - [Git - Introduction](https://www.linkedin.com/posts/activity-6493062320330145792-mb74)
 -->
 
+<!---
 ### Books
 - [The Modern Web](https://github.com/ciro-maciel/book-the-modern-web) - history and the development of Modern Web Applications - WIP
 - [The Event Web](https://github.com/ciro-maciel/book-the-event-web) - WIP
 - [The Intelligence of Machines](https://github.com/ciro-maciel/book-the-intelligence-of-machines) - My point of view on The Intelligence of Machines - WIP
+-->
 
 <hr />
 
