@@ -28,8 +28,7 @@ Connect with me via [instagram](https://www.instagram.com/ciro.maciel/), [twitte
 
 <!---
 ### Works
-- [Nucleus](http://nucleus.ciro-maciel.me/) - Putting all the measurable activities of my life into a system
-- [Live](http://live.ciro-maciel.me/) - 
+- [Live](http://live.ciro-maciel.me/) - simple, how Everything should be
 - [Groups](http://groups.ciro-maciel.me/) - 
 - [Forms](http://forms.ciro-maciel.me/) - powerful forms Anywhere
 - [Pages](http://pages.ciro-maciel.me/) - quick pages for Everyone
@@ -39,10 +38,19 @@ Connect with me via [instagram](https://www.instagram.com/ciro.maciel/), [twitte
 - [Sites](http://sites.ciro-maciel.me/) - 
 - [Docs](http://docs.ciro-maciel.me/) - 
 - [Reports](http://reports.ciro-maciel.me/) - 
+- [Analytics](http://analytics.ciro-maciel.me/) - 
 - [CRM](http://crm.ciro-maciel.me/) - your customer First
-- [Odonto Hora](https://odontohora.com.br/) - Formação de preço como estratégia do consultório odontológico
-- [WebShot](http://webshot.ciro-maciel.me/) - Allows you to take screenshots of web pages
+- [WebShot](http://webshot.ciro-maciel.me/) - take Screenshots of web pages
+-->
+
+<!---
+### Open Source
 - [Plane](https://github.com/c37/plane.js) - JavaScript Engine for Building 2D Element with HTML5 Canvas
+-->
+
+<!---
+### Clients
+- [Odonto Hora](https://odontohora.com.br/) - Formação de preço como estratégia do consultório odontológico
 -->
 
 <!---
