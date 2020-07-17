@@ -32,7 +32,7 @@ Connect with me via [instagram](https://www.instagram.com/ciro.maciel/), [twitte
 - [Groups](http://groups.ciro-maciel.me/) - 
 - [Forms](http://forms.ciro-maciel.me/) - powerful forms Anywhere
 - [Pages](http://pages.ciro-maciel.me/) - quick pages for Everyone
-- [Funnels](http://funnels.ciro-maciel.me/) - 
+- [Funnels](http://funnels.ciro-maciel.me/) - turn subscribers into new Customers
 - [Pay](http://pay.ciro-maciel.me/) - fast payments Anytime
 - [Chats](http://chats.ciro-maciel.me/) - 
 - [Sites](http://sites.ciro-maciel.me/) - 
