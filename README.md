@@ -3,7 +3,12 @@
       window.location.protocol = "https";
   }
 </script>
-<meta name="purpleads-verification" content="d3b0b7ed6ecefa21b787169c">
+<script>
+  var link = document.createElement('meta');
+  link.setAttribute('name', 'purpleads-verification');
+  link.content = 'd3b0b7ed6ecefa21b787169c';
+  document.getElementsByTagName('head')[0].appendChild(link);
+</script>
 <!-- <script async src="https://arc.io/widget.js#Eppxrziq"></script>  -->
 <link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
 <!-- Global site tag (gtag.js) - Google Analytics -->
