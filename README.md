@@ -39,6 +39,9 @@ Connect with me via [instagram](https://www.instagram.com/ciro.maciel/), [twitte
 - [Forms](http://forms.ciro-maciel.me/) - powerful forms Anywhere
 - [Pages](http://pages.ciro-maciel.me/) - quick pages for Everyone
 - [Campaigns](https://campaigns.ciro-maciel.me/) - turn Leads into new Customers
+- [Sales](https://sales.ciro-maciel.me/) - 
+- [Store](https://store.ciro-maciel.me/) - 
+- [Shop](https://shop.ciro-maciel.me/) - 
 - [Pay](http://pay.ciro-maciel.me/) - fast payments Anytime
 - [Chats](http://chats.ciro-maciel.me/) - 
 - [Sites](http://sites.ciro-maciel.me/) - 
