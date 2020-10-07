@@ -12,13 +12,13 @@
 <!-- <script async src="https://arc.io/widget.js#Eppxrziq"></script>  -->
 <link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
 <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-162788873-1"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-36787725-2"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'UA-162788873-1');
+  gtag('config', 'UA-36787725-2');
 </script>
 <script data-ad-client="ca-pub-8432926598980780" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
