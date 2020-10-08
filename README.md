@@ -61,6 +61,7 @@ Connect with me via [instagram](https://www.instagram.com/ciro.maciel/), [twitte
 
 ### Useful links
 - [Amazon Web Services](https://aws.amazon.com/)
+- [Indie Hackers](https://www.indiehackers.com/)
 - [Nomad List](https://nomadlist.com/)
 - [Tyler Tringas](https://tylertringas.com/)
 - [Preetam Nath](https://www.preetamnath.com/)
