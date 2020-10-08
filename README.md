@@ -59,6 +59,12 @@ Connect with me via [instagram](https://www.instagram.com/ciro.maciel/), [twitte
 ### Open Source
 - [Plane](https://github.com/c37/plane.js) - JavaScript Engine for Building 2D Element with HTML5 Canvas
 
+### Useful links
+- [Amazon Web Services](https://aws.amazon.com/)
+- [Nomad List](https://nomadlist.com/)
+- [Tyler Tringas](https://tylertringas.com/)
+- [Preetam Nath](https://www.preetamnath.com/)
+
 <!---
 ### Clients
 - [Odonto Hora](https://odontohora.com.br/) - Formação de preço como estratégia do consultório odontológico
