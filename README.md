@@ -28,11 +28,11 @@
 
 Hello! 👋My name is Ciro.
 
-I am a Software Engineer in a fantastic <a href="https://www.instagram.com/p/B_FxtLjJfeI/" target="_blank">family 👨‍👩‍👦</a>, today, we live in Sao Paulo 🇧🇷
+I am a Software Engineer in a fantastic <a href="https://www.instagram.com/p/B_FxtLjJfeI/">family (team 👨‍👩‍👦)</a>, today, we live in Sao Paulo 🇧🇷
 
 Connect with me via [instagram](https://www.instagram.com/ciro.maciel/), [twitter](https://twitter.com/ciro_maciel_), [github](https://github.com/ciro-maciel), [linkedin](https://www.linkedin.com/in/ciro-maciel/), [facebook](https://www.facebook.com/ciro.maciel.git) or [email](mailto:ciro.maciel@c37.co)
 
-### our SaaS
+### our <a href="https://tylertringas.com/micro-saas-ebook/" target="_blank">Micro-SaaS</a>
 - [Proxy](http://proxy.ciro-maciel.me/) - all roads, One place
 
 <!---
