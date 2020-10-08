@@ -28,7 +28,7 @@
 
 Hello! 👋My name is Ciro.
 
-I am a Software Engineer in a fantastic family <a href="https://www.instagram.com/p/B_FxtLjJfeI/">(team 👨‍ 👩‍ 👦)</a>
+I am a Software Engineer in a fantastic family <a href="https://www.instagram.com/p/B_FxtLjJfeI/">(team 👨🏽 👩🏻 👦🏻)</a>
 
 Connect with me via [instagram](https://www.instagram.com/ciro.maciel/), [twitter](https://twitter.com/ciro_maciel_), [github](https://github.com/ciro-maciel), [linkedin](https://www.linkedin.com/in/ciro-maciel/), [facebook](https://www.facebook.com/ciro.maciel.git) or [email](mailto:ciro.maciel@c37.co)
 
