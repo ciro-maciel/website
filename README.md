@@ -37,7 +37,7 @@ Connect with me via [instagram](https://www.instagram.com/ciro.maciel/), [twitte
 - [Proxy](http://proxy.ciro-maciel.me/) - all roads, One place
 
 <!---
-### Works
+### our Products
 - [Live](http://live.ciro-maciel.me/) - simple, how Everything should be
 - [Groups](http://groups.ciro-maciel.me/) - 
 - [Forms](http://forms.ciro-maciel.me/) - powerful forms Anywhere
@@ -87,6 +87,11 @@ Connect with me via [instagram](https://www.instagram.com/ciro.maciel/), [twitte
 - [The Modern Web](https://github.com/ciro-maciel/book-the-modern-web) - history and the development of Modern Web Applications - WIP
 - [The Event Web](https://github.com/ciro-maciel/book-the-event-web) - WIP
 - [The Intelligence of Machines](https://github.com/ciro-maciel/book-the-intelligence-of-machines) - My point of view on The Intelligence of Machines - WIP
+-->
+
+<!---
+### References
+- [Before and After Product-Market Fit with Peter and Calvin from Segment](https://www.indiehackers.com/podcast/032-peter-and-calvin-of-segment)
 -->
 
 <hr />
