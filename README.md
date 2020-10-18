@@ -100,6 +100,7 @@ Connect with me via [instagram](https://www.instagram.com/ciro.maciel/), [twitte
 - [Surviving a Year Without Revenue · "The Next Google" · How to Raise Prices](https://www.indiehackers.com/post/surviving-a-year-without-revenue-the-next-google-how-to-raise-prices-a5d148db78)
 - [GrowthHackers](https://growthhackers.com/posts)
 - [Marketing Examples](https://marketingexamples.com/)
+- [Raio-UX - Análise de cases de UX](https://www.youtube.com/playlist?list=PLETDaKe6jXDMEmU3MA6nK1LGBx7xge8U-)
 -->
 
 <hr />
