@@ -75,6 +75,7 @@ Connect with me via [instagram](https://www.instagram.com/ciro.maciel/), [twitte
 -->
 
 ### Latest Articles
+- [the how and why?](http://ciro-maciel.me/)
 - [how do we deliver Value?](http://ciro-maciel.me/)
 - [our Stack](http://ciro-maciel.me/)
 
