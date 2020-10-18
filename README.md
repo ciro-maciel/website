@@ -98,6 +98,8 @@ Connect with me via [instagram](https://www.instagram.com/ciro.maciel/), [twitte
 ### References
 - [Before and After Product-Market Fit with Peter and Calvin from Segment](https://www.indiehackers.com/podcast/032-peter-and-calvin-of-segment)
 - [Surviving a Year Without Revenue · "The Next Google" · How to Raise Prices](https://www.indiehackers.com/post/surviving-a-year-without-revenue-the-next-google-how-to-raise-prices-a5d148db78)
+- [GrowthHackers](https://growthhackers.com/posts)
+- [Marketing Examples](https://marketingexamples.com/)
 -->
 
 <hr />
