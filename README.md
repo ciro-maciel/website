@@ -74,6 +74,9 @@ Connect with me via [instagram](https://www.instagram.com/ciro.maciel/), [twitte
 - [Odonto Hora](https://odontohora.com.br/) - Formação de preço como estratégia do consultório odontológico
 -->
 
+### Latest Articles
+- [our Stack](http://ciro-maciel.me/)
+
 <!---
 ### Latest Articles
 - [Tools - Why?](http://ciro-maciel.me/)
