@@ -101,6 +101,9 @@ Connect with me via [instagram](https://www.instagram.com/ciro.maciel/), [twitte
 - [GrowthHackers](https://growthhackers.com/posts)
 - [Marketing Examples](https://marketingexamples.com/)
 - [Raio-UX - Análise de cases de UX](https://www.youtube.com/playlist?list=PLETDaKe6jXDMEmU3MA6nK1LGBx7xge8U-)
+- [Semantic UI](https://semantic-ui.com/)
+- [Ant Design](https://ant.design/)
+- [Kitten Tricks](https://github.com/akveo/kittenTricks)
 -->
 
 <hr />
