@@ -105,6 +105,7 @@ Connect with me via [instagram](https://www.instagram.com/ciro.maciel/), [twitte
 - [Ant Design](https://ant.design/)
 - [Kitten Tricks](https://github.com/akveo/kittenTricks)
 - [Eva Icons](https://github.com/akveo/eva-icons)
+- [10 modern layouts in 1 line of CSS](http://youtube.com/watch?v=qm0IfG1GyZU)
 -->
 
 <hr />
