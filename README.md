@@ -104,6 +104,7 @@ Connect with me via [instagram](https://www.instagram.com/ciro.maciel/), [twitte
 - [Semantic UI](https://semantic-ui.com/)
 - [Ant Design](https://ant.design/)
 - [Kitten Tricks](https://github.com/akveo/kittenTricks)
+- [Eva Icons](https://github.com/akveo/eva-icons)
 -->
 
 <hr />
