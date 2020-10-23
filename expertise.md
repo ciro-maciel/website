@@ -18,7 +18,7 @@ Customer-focused product developer, software engineer with over twenty years of 
 - Data Lake creation
 - semantic-release
 - DevOps &#124; SRE
-- White Label Systems
+- Systems with White Label
 - Systems with Themes
 
 
