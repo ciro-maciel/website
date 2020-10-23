@@ -5,7 +5,7 @@ Customer-focused product developer, software engineer with over twenty years of 
 ### my Expertise
 - Systems Architecture
 - Development Methodologies
-- AWS Cloud 
+- AWS Cloud Compute Service
 - CD/CI - Gitlab &#124; GitHub Actions &#124; Jenkins &#124; Bitbucket Pipelines
 - GitHub Flow &#124; Gitflow
 - Jira
