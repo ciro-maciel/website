@@ -5,14 +5,15 @@ Customer-focused product developer, software engineer with over twenty years of 
 ### my Expertise
 - Systems Architecture
 - Development Methodologies
+- Quality Methodologies
 - AWS Cloud Compute Service
 - CD/CI - Gitlab &#124; GitHub Actions &#124; Jenkins &#124; Bitbucket Pipelines
 - GitHub Flow &#124; Gitflow
-- Jira
 - Micro Frontends
 - Webpack
 - Proxy &#124; Routing &#124; Reverse Proxy
 - Preview Deployments
+- Jira
 - Docker
 - Serverless Framework
 - create, maintain and feed Data Lake
@@ -20,7 +21,6 @@ Customer-focused product developer, software engineer with over twenty years of 
 - DevOps &#124; SRE
 - Systems with White Label
 - Systems with Themes
-- Systems with Reverse proxy
 - Data Modeling in NoSQL vs SQL Databases
 
 
