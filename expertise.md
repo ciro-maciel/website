@@ -11,7 +11,7 @@ Customer-focused product developer, software engineer with over twenty years of 
 - Jira
 - Micro Frontends
 - Webpack
-- Proxy &#124; Routing 
+- Proxy &#124; Routing &#124; Reverse Proxy
 - Preview Deployments
 - Docker
 - Serverless Framework
@@ -20,6 +20,8 @@ Customer-focused product developer, software engineer with over twenty years of 
 - DevOps &#124; SRE
 - Systems with White Label
 - Systems with Themes
+- Systems with Reverse proxy
+- Data Modeling in NoSQL vs SQL Databases
 
 
 
