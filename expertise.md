@@ -15,7 +15,7 @@ Customer-focused product developer, software engineer with over twenty years of 
 - Preview Deployments
 - Docker
 - Serverless Framework
-- Data Lake creation
+- create, maintain and feed Data Lake
 - semantic-release
 - DevOps &#124; SRE
 - Systems with White Label
