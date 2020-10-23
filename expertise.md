@@ -7,17 +7,17 @@ Customer-focused product developer, software engineer with over twenty years of 
 - Arquitetura de Sistemas
 - Metodologias de Desenvolvimento - Sprint 
 - AWS Cloud 
-- CD/CI - Gitlab || GitHub Actions || Jenkins
+- CD/CI - Gitlab &#124; GitHub Actions &#124; Jenkins
 - GitHub Flow
 - Micro Frontends
 - Webpack
-- Proxy || Roteamento 
+- Proxy &#124; Roteamento 
 - Preview Deployments
 - Docker
 - Serverless Framework
 - Data Lake
 - semantic-release
-- DevOps || SRE
+- DevOps &#124; SRE
 - Sistemas com White Label
 - Sistemas com Themas
 
