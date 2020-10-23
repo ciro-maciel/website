@@ -120,8 +120,8 @@ Connect with me via [instagram](https://www.instagram.com/ciro.maciel/), [twitte
 
 <div style="text-align: right; float: right;">
  <span style="font-size: 11px"> made with ❤️ by </span>
- <a href="http://nucleus.ciro-maciel.me" style="font-size: 11px" target="_blank">
-   <strong style="font-size: 11px">nucleus</strong>
+ <a href="http://live.ciro-maciel.me" style="font-size: 11px" target="_blank">
+   <strong style="font-size: 11px">live</strong>
  </a>
 </div>
 
