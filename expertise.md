@@ -6,6 +6,8 @@ Customer-focused product developer, software engineer with over twenty years of 
 - Systems Architecture
 - Development Methodologies
 - Quality Methodologies
+- Scalable and Distributed Systems
+- Agile Culture
 - AWS Cloud Compute Service
 - CD/CI - Gitlab &#124; GitHub Actions &#124; Jenkins &#124; Bitbucket Pipelines
 - GitHub Flow &#124; Gitflow
@@ -18,20 +20,16 @@ Customer-focused product developer, software engineer with over twenty years of 
 - DevOps &#124; SRE
 - Systems with White Label
 - Systems with Themes
-- Data Modeling in NoSQL vs SQL Databases
+- Data Modeling in NoSQL and SQL Databases
 
 ### technologies I use
 - JavaScript - Vanilla &#124; ES6 
 - React &#124; Preact
+- React Native
 - Babel
 - Webpack
 - Serverless Framework
-
-
-### market Standards
-- semantic-release
-- Jira
-
+- NestJS
 
 
 
