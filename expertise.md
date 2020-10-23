@@ -10,18 +10,26 @@ Customer-focused product developer, software engineer with over twenty years of 
 - CD/CI - Gitlab &#124; GitHub Actions &#124; Jenkins &#124; Bitbucket Pipelines
 - GitHub Flow &#124; Gitflow
 - Micro Frontends
-- Webpack
 - Proxy &#124; Routing &#124; Reverse Proxy
 - Preview Deployments
-- Jira
 - Docker
-- Serverless Framework
 - create, maintain and feed Data Lake
-- semantic-release
 - DevOps &#124; SRE
 - Systems with White Label
 - Systems with Themes
 - Data Modeling in NoSQL vs SQL Databases
+
+### technologies I use
+- JavaScript - Vanilla &#124; ES6 
+- React &#124; Preact
+- Babel
+- Webpack
+- Serverless Framework
+
+
+### market Standards
+- semantic-release
+- Jira
 
 
 
