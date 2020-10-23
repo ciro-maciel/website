@@ -15,7 +15,6 @@ Customer-focused product developer, software engineer with over twenty years of 
 - Microservices with REST APIs and GraphQL APIs
 - Proxy &#124; Routing &#124; Reverse Proxy
 - Preview Deployments
-- Docker
 - create, maintain and feed Data Lake
 - DevOps &#124; SRE
 - Systems with White Label
@@ -27,6 +26,7 @@ Customer-focused product developer, software engineer with over twenty years of 
 - React &#124; Preact
 - React Native
 - Babel
+- Docker
 - Webpack
 - Serverless Framework
 - NestJS
