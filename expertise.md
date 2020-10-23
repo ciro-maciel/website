@@ -1,5 +1,24 @@
 <link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
 
+Customer-focused product developer, software engineer with over twenty years of professional experience.
+
+
+### my Expertise
+- Arquitetura de Sistemas
+- Metodologias de Desenvolvimento - Sprint 
+- AWS Cloud 
+- CD/CI - Gitlab | GitHub Actions | Jenkins
+- GitHub Flow
+- Micro Frontends
+- Webpack
+- Proxy | Roteamento 
+- Preview Deployments
+- Docker
+- Serverless Framework
+- Data Lake
+- semantic-release
+- DevOps | SRE
+
 
 
 
@@ -24,7 +43,7 @@
     display: none;
  }
  h1:after {
-  content: 'Expertise';
+  content: 'what I deliver Value...';
  }
  .container-lg{
   max-width: 900px
