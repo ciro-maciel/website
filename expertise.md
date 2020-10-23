@@ -7,6 +7,7 @@ Customer-focused product developer, software engineer with over twenty years of 
 - Development Methodologies
 - Quality Methodologies
 - Scalable and Distributed Systems
+- Performance Analysis
 - Agile Culture
 - AWS Cloud Compute Service
 - CD/CI - Gitlab &#124; GitHub Actions &#124; Jenkins &#124; Bitbucket Pipelines
