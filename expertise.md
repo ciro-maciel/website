@@ -6,8 +6,9 @@ Customer-focused product developer, software engineer with over twenty years of 
 - Systems Architecture
 - Development Methodologies
 - AWS Cloud 
-- CD/CI - Gitlab &#124; GitHub Actions &#124; Jenkins
+- CD/CI - Gitlab &#124; GitHub Actions &#124; Jenkins &#124; Bitbucket Pipelines
 - GitHub Flow
+- Jira
 - Micro Frontends
 - Webpack
 - Proxy &#124; Routing 
