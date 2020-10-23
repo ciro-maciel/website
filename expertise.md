@@ -20,6 +20,7 @@ Customer-focused product developer, software engineer with over twenty years of 
 - DevOps &#124; SRE
 - Systems with White Label
 - Systems with Themes
+- Systems Internationalization - Language &#124; Currency
 - Data Modeling in NoSQL and SQL Databases
 
 ### technologies I use
