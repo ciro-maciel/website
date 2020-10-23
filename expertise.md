@@ -10,6 +10,7 @@ Customer-focused product developer, software engineer with over twenty years of 
 - CD/CI - Gitlab &#124; GitHub Actions &#124; Jenkins &#124; Bitbucket Pipelines
 - GitHub Flow &#124; Gitflow
 - Micro Frontends
+- Microservices with REST APIs and GraphQL APIs
 - Proxy &#124; Routing &#124; Reverse Proxy
 - Preview Deployments
 - Docker
