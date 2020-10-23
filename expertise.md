@@ -2,24 +2,23 @@
 
 Customer-focused product developer, software engineer with over twenty years of professional experience.
 
-
 ### my Expertise
-- Arquitetura de Sistemas
-- Metodologias de Desenvolvimento - Sprint 
+- Systems Architecture
+- Development Methodologies
 - AWS Cloud 
 - CD/CI - Gitlab &#124; GitHub Actions &#124; Jenkins
 - GitHub Flow
 - Micro Frontends
 - Webpack
-- Proxy &#124; Roteamento 
+- Proxy &#124; Routing 
 - Preview Deployments
 - Docker
 - Serverless Framework
-- Data Lake
+- Data Lake creation
 - semantic-release
 - DevOps &#124; SRE
-- Sistemas com White Label
-- Sistemas com Themas
+- White Label Systems
+- Systems with Themes
 
 
 
