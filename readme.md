@@ -38,7 +38,7 @@ Connect with me via [instagram](https://www.instagram.com/ciro.maciel/), [twitte
 
 <!---
 ### our Products
-- [Live](http://live.ciro-maciel.me/) - simple, how Everything should be
+- [Projects](http://projects.ciro-maciel.me/) - simple, how Everything should be
 - [Groups](http://groups.ciro-maciel.me/) - 
 - [Forms](http://forms.ciro-maciel.me/) - powerful forms Anywhere
 - [Pages](http://pages.ciro-maciel.me/) - quick pages for Everyone
