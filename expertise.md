@@ -22,6 +22,7 @@ Customer-focused product developer, software engineer with over twenty years of 
 - Systems with Themes
 - Systems Internationalization - Language &#124; Currency
 - Data Modeling in NoSQL and SQL Databases
+- Systems Monitoring
 
 ### technologies I use
 - JavaScript - Vanilla &#124; ES6 
