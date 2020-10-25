@@ -34,6 +34,16 @@ Customer-focused product developer, software engineer with over twenty years of 
 - Serverless Framework
 - NestJS
 
+<!--
+NestJS
+https://www.youtube.com/watch?v=sIZOdIr_HbY
+https://www.youtube.com/watch?v=ufSIGVs9X_8
+https://www.youtube.com/watch?v=APICqUV1PzU
+https://www.youtube.com/watch?v=BT7novtdAgI
+-->
+
+
+
 
 
 
