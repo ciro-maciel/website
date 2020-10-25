@@ -49,7 +49,7 @@ Connect with me via [instagram](https://www.instagram.com/ciro.maciel/), [twitte
 - [Pay](http://pay.ciro-maciel.me/) - fast payments Anytime
 - [Chats](http://chats.ciro-maciel.me/) - 
 - [Sites](http://sites.ciro-maciel.me/) - 
-- [Docs](http://docs.ciro-maciel.me/) - 
+- [Docs](http://docs.ciro-maciel.me/) - https://www.gitbook.com/
 - [Reports](http://reports.ciro-maciel.me/) - 
 - [Analytics](http://analytics.ciro-maciel.me/) - 
 - [CRM](http://crm.ciro-maciel.me/) - your customer First
