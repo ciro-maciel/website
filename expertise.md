@@ -41,12 +41,9 @@ Customer-focused product developer, software engineer with over twenty years of 
 - https://www.youtube.com/watch?v=BT7novtdAgI
 - https://github.com/module-federation/module-federation-examples
 - https://semantic-release.gitbook.io/semantic-release/
+- https://significa.co/blog/deploy-previews-aws
 - https://aws.amazon.com/pt/blogs/compute/implementing-default-directory-indexes-in-amazon-s3-backed-amazon-cloudfront-origins-using-lambdaedge/
 -->
-
-
-
-
 
 
 
