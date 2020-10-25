@@ -33,10 +33,12 @@ Customer-focused [product developer](/expertise), software engineer in a fantast
 
 Connect with me via [instagram](https://www.instagram.com/ciro.maciel/), [twitter](https://twitter.com/ciro_maciel_), [github](https://github.com/ciro-maciel), [linkedin](https://www.linkedin.com/in/ciro-maciel/), [facebook](https://www.facebook.com/ciro.maciel.git) or [email](mailto:ciro.maciel@c37.co)
 
+<!--
 ### our Products
 - [Proxy](http://proxy.ciro-maciel.me/) - all roads, One place
+-->
 
-<!---
+<!--
 ### our Products
 - [Projects](http://projects.ciro-maciel.me/) - simple, how Everything should be
 - [Groups](http://groups.ciro-maciel.me/) - 
@@ -59,7 +61,7 @@ Connect with me via [instagram](https://www.instagram.com/ciro.maciel/), [twitte
 #### Open Source
 - [Plane](https://github.com/c37/plane.js) - JavaScript Engine for Building 2D Element with HTML5 Canvas
 
-<!---
+<!--
 #### Useful links
 - [Amazon Web Services](https://aws.amazon.com/)
 - [Indie Hackers](https://www.indiehackers.com/)
@@ -69,7 +71,7 @@ Connect with me via [instagram](https://www.instagram.com/ciro.maciel/), [twitte
 - [Preetam Nath](https://www.preetamnath.com/)
 -->
 
-<!---
+<!--
 ### Clients
 - [Odonto Hora](https://odontohora.com.br/) - Formação de preço como estratégia do consultório odontológico
 -->
@@ -79,7 +81,7 @@ Connect with me via [instagram](https://www.instagram.com/ciro.maciel/), [twitte
 - [how do we deliver Value?](http://ciro-maciel.me/)
 - [our Stack](http://ciro-maciel.me/)
 
-<!---
+<!--
 ### Latest Articles
 - [Tools - Why?](http://ciro-maciel.me/)
 - [Nucleus - Architecture](http://ciro-maciel.me/)
@@ -87,14 +89,14 @@ Connect with me via [instagram](https://www.instagram.com/ciro.maciel/), [twitte
 - [Git - Introduction](https://www.linkedin.com/posts/activity-6493062320330145792-mb74)
 -->
 
-<!---
+<!--
 ### Books
 - [The Modern Web](https://github.com/ciro-maciel/book-the-modern-web) - history and the development of Modern Web Applications - WIP
 - [The Event Web](https://github.com/ciro-maciel/book-the-event-web) - WIP
 - [The Intelligence of Machines](https://github.com/ciro-maciel/book-the-intelligence-of-machines) - My point of view on The Intelligence of Machines - WIP
 -->
 
-<!---
+<!--
 ### References
 - [Before and After Product-Market Fit with Peter and Calvin from Segment](https://www.indiehackers.com/podcast/032-peter-and-calvin-of-segment)
 - [Surviving a Year Without Revenue · "The Next Google" · How to Raise Prices](https://www.indiehackers.com/post/surviving-a-year-without-revenue-the-next-google-how-to-raise-prices-a5d148db78)
@@ -110,7 +112,7 @@ Connect with me via [instagram](https://www.instagram.com/ciro.maciel/), [twitte
 
 <hr />
 
-<!---
+<!--
 <div style="text-align: left; float: left;">
  <a href="https://www.patreon.com/ciro_maciel" style="font-size: 11px" target="_blank">
    support me
