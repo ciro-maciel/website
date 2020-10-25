@@ -35,13 +35,13 @@ Customer-focused product developer, software engineer with over twenty years of 
 - NestJS
 
 <!--
-NestJS
-https://www.youtube.com/watch?v=sIZOdIr_HbY
-https://www.youtube.com/watch?v=ufSIGVs9X_8
-https://www.youtube.com/watch?v=APICqUV1PzU
-https://www.youtube.com/watch?v=BT7novtdAgI
-https://github.com/module-federation/module-federation-examples
-https://semantic-release.gitbook.io/semantic-release/
+- https://www.youtube.com/watch?v=sIZOdIr_HbY
+- https://www.youtube.com/watch?v=ufSIGVs9X_8
+- https://www.youtube.com/watch?v=APICqUV1PzU
+- https://www.youtube.com/watch?v=BT7novtdAgI
+- https://github.com/module-federation/module-federation-examples
+- https://semantic-release.gitbook.io/semantic-release/
+- https://aws.amazon.com/pt/blogs/compute/implementing-default-directory-indexes-in-amazon-s3-backed-amazon-cloudfront-origins-using-lambdaedge/
 -->
 
 
