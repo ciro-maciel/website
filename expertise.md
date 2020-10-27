@@ -44,6 +44,7 @@ Customer-focused product developer, software engineer with over twenty years of 
 - https://significa.co/blog/deploy-previews-aws
 - https://aws.amazon.com/pt/blogs/compute/implementing-default-directory-indexes-in-amazon-s3-backed-amazon-cloudfront-origins-using-lambdaedge/
 - https://aws.amazon.com/pt/solutions/implementations/data-lake-solution/
+- https://pt.slideshare.net/AmazonWebServicesLATAM/construindo-um-data-lake-na-aws-62826647
 -->
 
 
