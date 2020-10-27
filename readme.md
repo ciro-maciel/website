@@ -69,6 +69,7 @@ Connect with me via [instagram](https://www.instagram.com/ciro.maciel/), [twitte
 - [Visa List](https://visalist.io/)
 - [Tyler Tringas](https://tylertringas.com/)
 - [Preetam Nath](https://www.preetamnath.com/)
+- https://nathanbarry.com/good-things/
 -->
 
 <!--
