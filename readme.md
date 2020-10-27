@@ -85,6 +85,7 @@ Connect with me via [instagram](https://www.instagram.com/ciro.maciel/), [twitte
 ### Business Tool
 - https://www.hotjar.com/
 - https://analytics.google.com/
+- https://tagmanager.google.com/
 - https://paddle.com/
 - https://transferwise.com/
 -->
