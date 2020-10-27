@@ -82,6 +82,14 @@ Connect with me via [instagram](https://www.instagram.com/ciro.maciel/), [twitte
 - [our Stack](http://ciro-maciel.me/)
 
 <!--
+### Business Tool
+- https://www.hotjar.com/
+- https://analytics.google.com/
+- https://paddle.com/
+- https://transferwise.com/
+-->
+
+<!--
 ### Latest Articles
 - [Tools - Why?](http://ciro-maciel.me/)
 - [Nucleus - Architecture](http://ciro-maciel.me/)
