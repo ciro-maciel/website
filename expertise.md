@@ -43,6 +43,7 @@ Customer-focused product developer, software engineer with over twenty years of 
 - https://semantic-release.gitbook.io/semantic-release/
 - https://significa.co/blog/deploy-previews-aws
 - https://aws.amazon.com/pt/blogs/compute/implementing-default-directory-indexes-in-amazon-s3-backed-amazon-cloudfront-origins-using-lambdaedge/
+- https://aws.amazon.com/pt/solutions/implementations/data-lake-solution/
 -->
 
 
