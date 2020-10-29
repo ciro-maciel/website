@@ -18,6 +18,7 @@ Customer-focused product developer, software engineer with over twenty years of 
 - Preview Deployments
 - create, maintain and feed Data Lake
 - DevOps &#124; SRE
+- UX/UI
 - Systems with White Label
 - Systems with Themes
 - Systems Internationalization - Language &#124; Currency
