@@ -23,6 +23,7 @@
 - Systems Internationalization - Language &#124; Currency
 - Data Modeling in NoSQL and SQL Databases
 - Systems Monitoring
+
 <!--
 - create, maintain and feed Data Lake
 - UX/UI
