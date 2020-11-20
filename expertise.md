@@ -1,9 +1,9 @@
 <link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
 
-<strong style="font-size:15px">Communication</strong>, the base of everything. With over twenty years of professional experience.
+<strong style="font-size:16px">Communication</strong>, the base of everything. With over twenty years of professional experience.
 
 ### my Expertise
-- <strong style="font-size:15px">Agile Culture</strong>
+- <strong style="font-size:16px">Agile Culture</strong>
 - Systems Architecture
 - Development Methodologies - Jira &#124; Kanban
 - Quality Methodologies
@@ -37,7 +37,6 @@
 - Docker
 - JSDoc
 - Webpack
-- Serverless Framework
 - NestJS
 - Serverless Framework
 
