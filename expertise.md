@@ -17,16 +17,16 @@
 - Proxy &#124; Routing &#124; Reverse Proxy
 - Preview Deployments
 - Serverless Architecture
-<!--
-  - create, maintain and feed Data Lake
-  - UX/UI
--->
 - DevOps &#124; SRE
 - Systems with White Label
 - Systems with Themes
 - Systems Internationalization - Language &#124; Currency
 - Data Modeling in NoSQL and SQL Databases
 - Systems Monitoring
+<!--
+  - create, maintain and feed Data Lake
+  - UX/UI
+-->
 
 ### technologies I use
 - JavaScript - Vanilla &#124; ES6 
