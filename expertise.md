@@ -5,7 +5,7 @@
 ### my Expertise
 - <strong style="font-size:15px">Agile Culture</strong>
 - Systems Architecture
-- Development Methodologies - Jira | Kanban
+- Development Methodologies - Jira &#124; Kanban
 - Quality Methodologies
 - Scalable and Distributed Systems
 - Performance Analysis
@@ -24,8 +24,8 @@
 - Data Modeling in NoSQL and SQL Databases
 - Systems Monitoring
 <!--
-  - create, maintain and feed Data Lake
-  - UX/UI
+- create, maintain and feed Data Lake
+- UX/UI
 -->
 
 ### technologies I use
