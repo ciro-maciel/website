@@ -1,6 +1,6 @@
 <link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
 
-<strong style="font-size:15px">Communication</strong>, the base of everything. With over twenty years of professional experience
+<strong style="font-size:15px">Communication</strong>, the base of everything. With over twenty years of professional experience.
 
 ### my Expertise
 - Systems Architecture
