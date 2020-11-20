@@ -2,8 +2,9 @@
 
 <strong style="font-size:16px">Communication</strong>, the base of everything. With over twenty years of professional experience.
 
+<strong style="font-size:16px">Lean Startup</strong>, Data focus, <strong style="font-size:16px">Agile Culture</strong>, Culture of automation, Problem solving, Technical leadership
+
 ### my Expertise
-- <strong style="font-size:16px">Agile Culture</strong>
 - Systems Architecture
 - Development Methodologies - Jira &#124; Kanban
 - Quality Methodologies
@@ -17,7 +18,7 @@
 - Proxy &#124; Routing &#124; Reverse Proxy
 - Preview Deployments
 - Serverless Architecture
-- DevOps &#124; SRE
+- DevSecOps &#124; DevOps
 - Systems with White Label
 - Systems with Themes
 - Systems Internationalization - Language &#124; Currency
