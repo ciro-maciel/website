@@ -31,7 +31,7 @@
 
 ### technologies I use
 - JavaScript - Vanilla &#124; ES6 
-- React &#124; Preact
+- React
 - React Native
 - Babel
 - Docker
