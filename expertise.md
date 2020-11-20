@@ -12,7 +12,7 @@
 - Performance Analysis
 - AWS Cloud Compute Service
 - CD/CI - Gitlab &#124; GitHub Actions &#124; Jenkins &#124; Bitbucket Pipelines
-- GitHub Flow &#124; Gitflow
+- GitHub Flow &#124; Gitflow - Releases &#124; Tags &#124; Changelog - <strong style="font-size:16px">automated</strong>
 - Micro Frontends
 - Microservices with REST APIs and GraphQL APIs
 - Proxy &#124; Routing &#124; Reverse Proxy
