@@ -9,7 +9,7 @@
 - Quality Methodologies
 - Scalable and Distributed Systems
 - Performance Analysis
-- AWS Cloud Compute Service - 
+- AWS Cloud Compute Service
 - CD/CI - Gitlab &#124; GitHub Actions &#124; Jenkins &#124; Bitbucket Pipelines
 - GitHub Flow &#124; Gitflow
 - Micro Frontends
