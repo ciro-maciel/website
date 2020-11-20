@@ -3,22 +3,25 @@
 <strong style="font-size:15px">Communication</strong>, the base of everything. With over twenty years of professional experience.
 
 ### my Expertise
+- <strong style="font-size:15px">Agile Culture</strong>
 - Systems Architecture
-- Development Methodologies
+- Development Methodologies - Jira | Kanban
 - Quality Methodologies
 - Scalable and Distributed Systems
 - Performance Analysis
-- Agile Culture
-- AWS Cloud Compute Service
+- AWS Cloud Compute Service - 
 - CD/CI - Gitlab &#124; GitHub Actions &#124; Jenkins &#124; Bitbucket Pipelines
 - GitHub Flow &#124; Gitflow
 - Micro Frontends
 - Microservices with REST APIs and GraphQL APIs
 - Proxy &#124; Routing &#124; Reverse Proxy
 - Preview Deployments
-- create, maintain and feed Data Lake
+- Serverless Architecture
+<!--
+  - create, maintain and feed Data Lake
+  - UX/UI
+-->
 - DevOps &#124; SRE
-- UX/UI
 - Systems with White Label
 - Systems with Themes
 - Systems Internationalization - Language &#124; Currency
@@ -31,9 +34,11 @@
 - React Native
 - Babel
 - Docker
+- JSDoc
 - Webpack
 - Serverless Framework
 - NestJS
+- Serverless Framework
 
 <!--
 - https://www.youtube.com/watch?v=sIZOdIr_HbY
