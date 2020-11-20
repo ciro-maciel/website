@@ -127,6 +127,8 @@ Connect with me via [instagram](https://www.instagram.com/ciro.maciel/), [twitte
 - [Kitten Tricks](https://github.com/akveo/kittenTricks)
 - [Eva Icons](https://github.com/akveo/eva-icons)
 - [10 modern layouts in 1 line of CSS](http://youtube.com/watch?v=qm0IfG1GyZU)
+- novas gerações dão mais importância à experiência do que à marca - https://neofeed.com.br/blog/home/por-que-o-seu-diretor-de-tecnologia-precisa-saber-mais-sobre-negocios/
+- ajudam a desenhar estratégias de negócio - https://neofeed.com.br/blog/home/por-que-o-seu-diretor-de-tecnologia-precisa-saber-mais-sobre-negocios/
 -->
 
 <hr />
