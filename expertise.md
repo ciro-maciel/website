@@ -12,7 +12,7 @@
 - Performance Analysis
 - AWS Cloud Compute Service
 - CD/CI - Gitlab &#124; GitHub Actions &#124; Jenkins &#124; Bitbucket Pipelines
-- GitHub Flow &#124; Gitflow - Releases + Tags +  <a href="http://workspace.ciro-maciel.me/changelog" style="font-size: 11px" target="_blank">Changelog</a> - <strong style="font-size:16px">automated</strong>
+- GitHub Flow &#124; Gitflow - Releases + Tags +  <a href="http://workspace.ciro-maciel.me/changelog" target="_blank">Changelog</a> - <strong style="font-size:16px">automated</strong>
 - Micro Frontends
 - Microservices with REST APIs and GraphQL APIs
 - Proxy &#124; Routing &#124; Reverse Proxy
