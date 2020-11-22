@@ -11,6 +11,7 @@
 - Webpack
 - NestJS
 - Serverless Framework
+- GraphQL
 
 
 
