@@ -4,7 +4,6 @@
 
 <strong style="font-size:16px">Lean Startup</strong>, Data focus, <strong style="font-size:16px">Agile Culture</strong>, Culture of automation, Problem solving, Technical leadership
 
-### my Expertise
 - Systems Architecture
 - Development Methodologies - Jira &#124; Kanban
 - Quality Methodologies
