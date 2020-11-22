@@ -30,17 +30,6 @@
 - UX/UI
 -->
 
-### technologies I use
-- JavaScript - Vanilla &#124; ES6 
-- React
-- React Native
-- Babel
-- Docker
-- JSDoc
-- Webpack
-- NestJS
-- Serverless Framework
-
 <!--
 - https://www.youtube.com/watch?v=sIZOdIr_HbY
 - https://www.youtube.com/watch?v=ufSIGVs9X_8
