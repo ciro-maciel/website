@@ -38,6 +38,9 @@ Customer-focused [product developer](/expertise), software engineer in a fantast
 
 Connect with me via [instagram](https://www.instagram.com/ciro.maciel/), [twitter](https://twitter.com/ciro_maciel_), [github](https://github.com/ciro-maciel), [linkedin](https://www.linkedin.com/in/ciro-maciel/), [facebook](https://www.facebook.com/ciro.maciel.git) or [email](mailto:ciro.maciel@c37.co)
 
+
+[the How and Why?](/how-and-why) | [how do we deliver Value?](/deliver-value) | [technologies I use](/technologies)
+
 ### our Products
 - <a href="http://proxy.ciro-maciel.me/" target="_blank">Proxy</a> - all roads, One place
 - <a href="https://workspace.ciro-maciel.me/" target="_blank">Workspace</a> - simple, how Everything should be
@@ -86,10 +89,12 @@ Connect with me via [instagram](https://www.instagram.com/ciro.maciel/), [twitte
 - [Odonto Hora](https://odontohora.com.br/) - Formação de preço como estratégia do consultório odontológico
 -->
 
+<!--
 ### Latest Articles
 - [the How and Why?](/how-and-why)
 - [how do we deliver Value?](/deliver-value)
 - [technologies I use](/technologies)
+-->
 
 <!--
 ### Business Tool
