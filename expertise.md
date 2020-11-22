@@ -23,6 +23,9 @@
 - Systems Internationalization - Language &#124; Currency
 - Data Modeling in NoSQL and SQL Databases
 - Systems Monitoring
+- Information Search and Storage
+- Search Systems
+- Crawler Systems
 
 <!--
 - create, maintain and feed Data Lake
