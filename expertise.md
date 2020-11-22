@@ -9,7 +9,6 @@
 - Quality Methodologies
 - Scalable and Distributed Systems
 - Performance Analysis
-- AWS Cloud Compute Service
 - CD/CI - Gitlab &#124; GitHub Actions &#124; Jenkins &#124; Bitbucket Pipelines
 - GitHub Flow &#124; Gitflow - Releases + Tags +  <a href="http://workspace.ciro-maciel.me/changelog" target="_blank">Changelog</a> - <strong style="font-size:16px">automated</strong>
 - Micro Frontends
@@ -23,9 +22,13 @@
 - Systems Internationalization - Language &#124; Currency
 - Data Modeling in NoSQL and SQL Databases
 - Systems Monitoring
-- Information Search and Storage
+- Storage and Search Information
 - Search Systems
 - Crawler Systems
+
+
+<strong style="font-size:16px">everything in the cloud (AWS Cloud Compute Service), paying only for the resources used</strong>
+
 
 <!--
 - create, maintain and feed Data Lake
