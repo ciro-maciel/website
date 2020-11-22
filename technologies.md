@@ -1,6 +1,16 @@
 
 <link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
 
+- JavaScript - Vanilla &#124; ES6 
+- React
+- React Native
+- Babel
+- Docker
+- JSDoc
+- Webpack
+- NestJS
+- Serverless Framework
+
 
 
 <div style="text-align: right; float: right;">
