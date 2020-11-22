@@ -76,7 +76,7 @@
     display: none;
  }
  h1:after {
-  content: 'what I deliver Value...';
+  content: 'Expertise';
  }
  .container-lg{
   max-width: 900px
