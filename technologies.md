@@ -3,7 +3,8 @@
 
 - JavaScript - Vanilla &#124; ES6 
 - React
-- React Native
+- React Native - for mobile development
+- Node.js
 - Babel
 - Docker
 - JSDoc
