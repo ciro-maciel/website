@@ -47,6 +47,7 @@ Connect with me via [instagram](https://www.instagram.com/ciro.maciel/), [twitte
 <!--
 ### our Products
 - [Proxy](http://proxy.ciro-maciel.me/) - all roads, One place
+- https://github.com/amitness/learning
 -->
 
 <!--
