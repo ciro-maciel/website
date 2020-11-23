@@ -25,6 +25,7 @@
 - Storage and Search Information - ELK Stack
 - Search Systems
 - Crawler Systems
+- Web Application Firewall - AWS WAF
 
 
 <strong style="font-size:16px">Everything in the cloud (AWS Cloud Compute Service), paying only for the resources used</strong>
