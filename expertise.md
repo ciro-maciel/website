@@ -19,7 +19,7 @@
 - DevSecOps &#124; DevOps
 - Systems with White Label
 - Systems with Themes
-- Systems Internationalization - Language &#124; Currency
+- <a href="http://workspace.ciro-maciel.me?guide=%5B%0A%20%20%20%20%20%20%20%20%7B%0A%20%20%20%20%20%20%20%20%20%20element%3A%20'%23select-i18n'%2C%0A%20%20%20%20%20%20%20%20%20%20popover%3A%20%7B%0A%20%20%20%20%20%20%20%20%20%20%20%20title%3A%20'Internationalization%20and%20localization'%2C%0A%20%20%20%20%20%20%20%20%20%20%20%20description%3A%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20'%3Ca%20href%3D%22https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FInternationalization_and_localization%22%20target%3D%22_blank%22%3Ei18n%3C%2Fa%3E%2C%20are%20means%20of%20adapting%20computer%20software%20to%20different%20languages%2C%20regional%20peculiarities%20and%20technical%20requirements%20of%20a%20target%20locale'%2C%0A%20%20%20%20%20%20%20%20%20%20%20%20position%3A%20'top'%2C%0A%20%20%20%20%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%5D" target="_blank">Systems Internationalization</a> - Language &#124; Currency
 - Data Modeling in NoSQL and SQL Databases
 - Systems Monitoring
 - Storage and Search Information
