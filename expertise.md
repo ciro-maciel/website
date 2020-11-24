@@ -12,7 +12,7 @@
 - CD/CI - Gitlab &#124; GitHub Actions &#124; Jenkins &#124; Bitbucket Pipelines
 - GitHub Flow &#124; Gitflow - Pull Request + Releases + Tags +  <a href="https://workspace.ciro-maciel.me/changelog" target="_blank">Changelog</a> - <strong style="font-size:16px">automated</strong>
 - Micro Frontends
-- Microservices with REST API's and <a href="https://workspace.ciro-maciel.me/g/p/" target="_blank">GraphQL API's</a>
+- Microservices with REST API's and <a href="https://workspace.ciro-maciel.me/g/t/" target="_blank">GraphQL API's</a>
 - Proxy &#124; Routing &#124; <a href="https://proxy.ciro-maciel.me/" target="_blank">Reverse Proxy</a>
 - Preview Deployments
 - Serverless Architecture
