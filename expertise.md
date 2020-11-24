@@ -10,22 +10,23 @@
 - Scalable and Distributed Systems
 - Performance Analysis
 - CD/CI - Gitlab &#124; GitHub Actions &#124; Jenkins &#124; Bitbucket Pipelines
-- GitHub Flow &#124; Gitflow - Releases + Tags +  <a href="http://workspace.ciro-maciel.me/changelog" target="_blank">Changelog</a> - <strong style="font-size:16px">automated</strong>
+- GitHub Flow &#124; Gitflow - Pull Request + Releases + Tags +  <a href="https://workspace.ciro-maciel.me/changelog" target="_blank">Changelog</a> - <strong style="font-size:16px">automated</strong>
 - Micro Frontends
-- Microservices with REST APIs and GraphQL APIs
-- Proxy &#124; Routing &#124; Reverse Proxy
+- Microservices with REST API's and <a href="https://workspace.ciro-maciel.me/g/p/" target="_blank">GraphQL API's</a>
+- Proxy &#124; Routing &#124; <a href="https://proxy.ciro-maciel.me/" target="_blank">Reverse Proxy</a>
 - Preview Deployments
 - Serverless Architecture
 - DevSecOps &#124; DevOps
 - Systems with White Label
 - Systems with Themes
-- <a href="http://workspace.ciro-maciel.me?guide=%5B%0A%20%20%20%20%20%20%20%20%7B%0A%20%20%20%20%20%20%20%20%20%20element%3A%20'%23select-i18n'%2C%0A%20%20%20%20%20%20%20%20%20%20popover%3A%20%7B%0A%20%20%20%20%20%20%20%20%20%20%20%20title%3A%20'Internationalization%20and%20localization'%2C%0A%20%20%20%20%20%20%20%20%20%20%20%20description%3A%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20'%3Ca%20href%3D%22https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FInternationalization_and_localization%22%20target%3D%22_blank%22%3Ei18n%3C%2Fa%3E%2C%20are%20means%20of%20adapting%20computer%20software%20to%20different%20languages%2C%20regional%20peculiarities%20and%20technical%20requirements%20of%20a%20target%20locale'%2C%0A%20%20%20%20%20%20%20%20%20%20%20%20position%3A%20'top'%2C%0A%20%20%20%20%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%5D" target="_blank">Systems Internationalization</a> - Language &#124; Currency
+- <a href="https://workspace.ciro-maciel.me?guide=%5B%0A%20%20%20%20%20%20%20%20%7B%0A%20%20%20%20%20%20%20%20%20%20element%3A%20'%23select-i18n'%2C%0A%20%20%20%20%20%20%20%20%20%20popover%3A%20%7B%0A%20%20%20%20%20%20%20%20%20%20%20%20title%3A%20'Internationalization%20and%20localization'%2C%0A%20%20%20%20%20%20%20%20%20%20%20%20description%3A%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20'%3Ca%20href%3D%22https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FInternationalization_and_localization%22%20target%3D%22_blank%22%3Ei18n%3C%2Fa%3E%2C%20are%20means%20of%20adapting%20computer%20software%20to%20different%20languages%2C%20regional%20peculiarities%20and%20technical%20requirements%20of%20a%20target%20locale'%2C%0A%20%20%20%20%20%20%20%20%20%20%20%20position%3A%20'top'%2C%0A%20%20%20%20%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%5D" target="_blank">Systems Internationalization</a> - Language &#124; Currency
 - Data Modeling in NoSQL and SQL Databases
 - Systems Monitoring
 - Storage and Search Information - ELK Stack
 - Search Systems
 - Crawler Systems
 - Web Application Firewall - AWS WAF
+- UX/UI - transform a Figma job for Web/Mobile system
 
 
 <strong style="font-size:16px">Everything in the cloud (AWS Cloud Compute Service), paying only for the resources used</strong>
