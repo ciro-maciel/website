@@ -7,7 +7,7 @@
 - Node.js
 - Babel
 - Docker
-- JSDoc
+- <a href="https://github.com/doczjs/docz" target="_blank">JSDoc</a>
 - Webpack
 - NestJS
 - Serverless Framework
