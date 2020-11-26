@@ -8,7 +8,7 @@ With experience, real-time communication tools, planning tools applying agile Sc
 - Google Workspace
 - Microsoft Office 365
 - Slack
-- Jira | Github - Projects|Issues
+- Jira &#124; Github - Projects &#124; Issues
 
 Because we can define metrics, we have documents agreed with stakeholders and converge/correct at any time to the success point.
 
