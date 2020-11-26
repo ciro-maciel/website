@@ -101,6 +101,8 @@ Connect with me via [instagram](https://www.instagram.com/ciro.maciel/), [twitte
 - https://paddle.com/
 - https://transferwise.com/
 - https://www.chatwoot.com/
+- https://www.loom.com/
+- https://www.hotjar.com/
 -->
 
 <!--
