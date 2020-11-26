@@ -13,6 +13,7 @@
 - Serverless Framework
 - GraphQL
 
+<strong style="font-size:16px">Everything in the cloud (AWS Cloud Compute Service), paying only for the resources used</strong>
 
 
 <div style="text-align: right; float: right;">
