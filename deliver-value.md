@@ -4,6 +4,12 @@
 <link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
 
 
+- 20 years of experience, building products, using technology focused on the client, with agile methodologies
+- experience in the professional market in Brazil
+- I'm a software engineer, I apply technology in product development
+- and support people and teams, sharing knowledge
+
+
 
 <div style="text-align: right; float: right;">
  <span style="font-size: 11px"> made with ❤️ by </span>
