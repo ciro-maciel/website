@@ -29,9 +29,6 @@
 - UX/UI - transform a Figma job for Web/Mobile system
 
 
-<strong style="font-size:16px">Everything in the cloud (AWS Cloud Compute Service), paying only for the resources used</strong>
-
-
 <!--
 - create, maintain and feed Data Lake
 - UX/UI
