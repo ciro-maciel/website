@@ -3,6 +3,17 @@
 <link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
 
 
+With experience, real-time communication tools, planning tools applying agile Scrum and/or Kanban methodologies
+
+- Google Workspace
+- Microsoft Office 365
+- Slack
+- Jira | Github - Projects|Issues
+
+Because we can define metrics, we have documents agreed with stakeholders and converge/correct at any time to the success point.
+
+
+
 
 <div style="text-align: right; float: right;">
  <span style="font-size: 11px"> made with ❤️ by </span>
