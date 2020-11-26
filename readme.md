@@ -3,28 +3,25 @@
       window.location.protocol = "https";
   }
 </script>
-<script>
-  var link = document.createElement('meta');
-  link.setAttribute('name', 'purpleads-verification');
-  link.content = 'd3b0b7ed6ecefa21b787169c';
-  document.getElementsByTagName('head')[0].appendChild(link);
-</script>
-<!-- <script async src="https://arc.io/widget.js#Eppxrziq"></script>  -->
-<script>(function(p,e,r,s,o,n,i,f,y){n=p.getElementsByTagName(e)[0];function z(){f.style.opacity=""}function m(a,t,h){i=p.createElement("link");i.rel=t?"preload":"preconnect";i.href=a;i.crossOrigin=t?null:"anonymous";if(h){i.as=h}n.parentNode.insertBefore(i,n)}m(r+s);m(r+s+o,!0,e);m(r+"global."+s);f=p.documentElement;f.style.opacity=window.TxtOptions&&window.TxtOptions.asyncMode?'':0;setTimeout(z,3e3);y=p.createElement(e);y.src=r+s+o;y.async=!0;y.onerror=z;n.parentNode.insertBefore(y,n)})(document,"script","https://","unless.com","/js/v5/latest/txt.min.js?id=559ac63c-92de-42a4-827d-3ef0453573ca")</script>
+
+<link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
+
 <script>
 !function(e,t){"object"==typeof exports&&"object"==typeof module?module.exports=t():"function"==typeof define&&define.amd?define([],t):"object"==typeof exports?exports.$=t():e.$=t()}(window,(function(){return function(e){var t={};function n(r){if(t[r])return t[r].exports;var i=t[r]={i:r,l:!1,exports:{}};return e[r].call(i.exports,i,i.exports,n),i.l=!0,i.exports}return n.m=e,n.c=t,n.d=function(e,t,r){n.o(e,t)||Object.defineProperty(e,t,{enumerable:!0,get:r})},n.r=function(e){"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(e,"__esModule",{value:!0})},n.t=function(e,t){if(1&t&&(e=n(e)),8&t)return e;if(4&t&&"object"==typeof e&&e&&e.__esModule)return e;var r=Object.create(null);if(n.r(r),Object.defineProperty(r,"default",{enumerable:!0,value:e}),2&t&&"string"!=typeof e)for(var i in e)n.d(r,i,function(t){return e[t]}.bind(null,i));return r},n.n=function(e){var t=e&&e.__esModule?function(){return e.default}:function(){return e};return n.d(t,"a",t),t},n.o=function(e,t){return Object.prototype.hasOwnProperty.call(e,t)},n.p="",n(n.s=0)}([function(e,t,n){"use strict";var r;n.r(t),n.d(t,"H",(function(){return o}));var i=document.createElement("script"),o={init:function(e,t){void 0===t&&(t=!1),i.addEventListener("load",(function(){(r=new window.Highlight(t)).initialize(e)}))},identify:function(e,t){o.onHighlightReady((function(){return r.identify(e,t)}))},onHighlightReady:function(e){var t=setInterval((function(){r&&r.ready&&(clearInterval(t),e())}),200)}};window.H=o;i.setAttribute("src","https://static.highlight.run/index.js?"+(new Date).getMilliseconds()),i.setAttribute("type","text/javascript"),document.getElementsByTagName("head")[0].appendChild(i)}])}));
 window.H.init(42)
 </script>
-<link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
+
 <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-36787725-2"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-162788873-1"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'UA-36787725-2');
+  gtag('config', 'UA-162788873-1');
 </script>
+
+
 <script data-ad-client="ca-pub-8432926598980780" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
 <div style="text-align: right; float: right">
