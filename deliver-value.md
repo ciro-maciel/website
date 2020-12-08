@@ -8,6 +8,10 @@
 - experience in the professional market in Brazil
 - I'm a software engineer, I apply technology in product development
 - and support people and teams, sharing knowledge
+- two years of leading technical projects and/or technical teams
+- experience building and maintaining a design system or shared component library on a large-scale production website
+- experience of the full software development life cycle, including coding standards, code reviews, source control management, build processes, and testing
+- ability to rapidly prototype sites and components is required
 
 
 
