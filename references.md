@@ -113,6 +113,19 @@ Reference is a relationship between objects in which one object designates, or a
 
 - https://devhints.io/semver
 
+```
+  // https://stackoverflow.com/questions/61255053/react-usecallback-with-parameter
+  const debouncedUserByUserName = useCallback(
+    utility.function.debounce((text) => {
+      // console.log('debounce');
+      // console.log('loadingTextById', loadingTextById);
+      // !loadingTextById && form.validateFields((error) => !error && setTextCreate());
+      form.validateFields((error) => !error && setTextCreate());
+    }, 1500),
+    []
+  );
+```
+
 ### Ant
 
 - https://ant.design/
