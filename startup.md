@@ -10,5 +10,6 @@
 - https://www.youtube.com/watch?v=0lJKucu6HJc&feature=emb_title
 - http://startupclass.samaltman.com/
 - https://www.ycombinator.com/
+- https://www.startupschool.org/dashboard
 - http://paulgraham.com/fr.html
 -->
