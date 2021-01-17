@@ -74,6 +74,13 @@ Você tem uma ideia brilhante ou uma necessidade que deve ser solucionada com So
 #### Open Source
 - [Plane](https://github.com/c37/plane.js) - JavaScript Engine for Building 2D Element with HTML5 Canvas
 
+
+#### Mudanças de Comportamento
+
+- [Dieta de Gladiadores](https://www.netflix.com/br/title/81157840)
+- [What the Health](https://www.netflix.com/br/title/80174177)
+- [Self Coaching](https://www.ibccoaching.com.br/nossos-cursos/formacao-em-psc/)
+
 <!--
 #### Useful links
 - [Amazon Web Services](https://aws.amazon.com/)
