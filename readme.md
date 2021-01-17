@@ -79,6 +79,8 @@ Você tem uma ideia brilhante ou uma necessidade que deve ser solucionada com So
 
 - [Dieta de Gladiadores](https://www.netflix.com/br/title/81157840)
 - [What the Health](https://www.netflix.com/br/title/80174177)
+
+
 <!--
 - [Self Coaching](https://www.ibccoaching.com.br/nossos-cursos/formacao-em-psc/)
 -->
