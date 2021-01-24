@@ -35,6 +35,12 @@ I am [Software engineer](/expertise) in a fantastic Family <a href="https://www.
 
 Connect with me via [instagram](https://www.instagram.com/ciro.maciel/), [twitter](https://twitter.com/ciro_maciel_), [github](https://github.com/ciro-maciel), [linkedin](https://www.linkedin.com/in/ciro-maciel/), [facebook](https://www.facebook.com/ciro.maciel.git) or [email](mailto:ciro.maciel@c37.co)
 
+
+Subscribe to get my weekly newsletter and latest articles.
+
+<form action="https://forms.ciro-maciel.me/s/p/23cbcde6119db97f?refresh=https%3A%2F%2Fforms.ciro-maciel.me%2F%23test" method="POST"><label>Your name:<input type="text" name="name" required=""></label><label>Your email:<input type="email" name="email" required=""></label>
+<button type="submit">Send</button></form>
+
 <!--
 Você tem uma ideia brilhante ou uma necessidade que deve ser solucionada com Software? Me chame para bater um papo, vamos conversar a respeito.&nbsp;[<img src="https://www.convertte.com.br/cvtt/wp-content/themes/cvtt_v3/assets/gerador-link-new/images/wpp-logo.svg" alt="" style="height:15px;width:15px;">](https://api.whatsapp.com/send?phone=5511986166966)
 
