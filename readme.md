@@ -31,7 +31,7 @@ window.H.init(42)
 Hello! 👋My name is Ciro.
 
 
-I am [Software engineer](/expertise) in a fantastic Family <a href="https://www.instagram.com/p/B_FxtLjJfeI/">(team 👨🏽👩🏻👦🏻)</a>
+I am [Software engineer](/expertise), Salesforce Specialist in a fantastic Family <a href="https://www.instagram.com/p/B_FxtLjJfeI/">(team 👨🏽👩🏻👦🏻)</a>
 
 Connect with me via [instagram](https://www.instagram.com/ciro.maciel/), [twitter](https://twitter.com/ciro_maciel_), [github](https://github.com/ciro-maciel), [linkedin](https://www.linkedin.com/in/ciro-maciel/), [facebook](https://www.facebook.com/ciro.maciel.git) or [email](mailto:ciro.maciel@c37.co)
 
@@ -87,6 +87,14 @@ Você tem uma ideia brilhante ou uma necessidade que deve ser solucionada com So
 
 - [Dieta de Gladiadores](https://www.netflix.com/br/title/81157840)
 - [What the Health](https://www.netflix.com/br/title/80174177)
+
+#### My point of view
+- [Como um Software pode mudar sua empresa?]()
+- [Quais são os investimentos de um Software?]()
+- [Salesforce o que é?]()
+- [Salesforce quando usar?]()
+- [Salesforce quando não usar?]()
+- [Git - Introduction]()
 
 
 <!--
