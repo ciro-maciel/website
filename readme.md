@@ -94,7 +94,9 @@ Você tem uma ideia brilhante ou uma necessidade que deve ser solucionada com So
 - [Salesforce o que é?]()
 - [Salesforce quando usar?]()
 - [Salesforce quando não usar?]()
-- [Git - Introduction]()
+- [Git - controle de código]()
+- [Workpace - Análise](http://ciro-maciel.me/)
+
 
 
 <!--
