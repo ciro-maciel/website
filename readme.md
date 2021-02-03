@@ -88,7 +88,7 @@ Você tem uma ideia brilhante ou uma necessidade que deve ser solucionada com So
 - [Dieta de Gladiadores](https://www.netflix.com/br/title/81157840)
 - [What the Health](https://www.netflix.com/br/title/80174177)
 
-#### My point of view
+#### Articles
 - [Como um Software pode mudar sua empresa?]()
 - [Quais são os investimentos de um Software?]()
 - [Salesforce, o que é?]()
