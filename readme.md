@@ -49,7 +49,7 @@ Você tem uma ideia brilhante ou uma necessidade que deve ser solucionada com So
 [the How and Why?](/how-and-why) | [how do we deliver Value?](/deliver-value) | [technologies I use](/technologies)
 -->
 
-### our Products
+### our Projects
 - <a href="http://proxy.ciro-maciel.me/" target="_blank">Proxy</a> - all roads, One place
 - <a href="https://workspace.ciro-maciel.me/" target="_blank">Workspace</a> - simple, how Everything should be
 
