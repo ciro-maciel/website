@@ -91,11 +91,11 @@ Você tem uma ideia brilhante ou uma necessidade que deve ser solucionada com So
 #### My point of view
 - [Como um Software pode mudar sua empresa?]()
 - [Quais são os investimentos de um Software?]()
-- [Salesforce o que é?]()
-- [Salesforce quando usar?]()
-- [Salesforce quando não usar?]()
-- [Git - controle de código]()
-- [Workpace - Análise](http://ciro-maciel.me/)
+- [Salesforce, o que é?]()
+- [Salesforce, quando usar?]()
+- [Salesforce, quando não usar?]()
+- [Git, controle de código]()
+- [Workpace, Análise](http://ciro-maciel.me/)
 
 
 
