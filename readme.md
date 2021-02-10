@@ -97,6 +97,8 @@ Você tem uma ideia brilhante ou uma necessidade que deve ser solucionada com So
 - [Git, controle de código]()
 - [Workpace, análise]()
 - [Como é o dia-a-dia de trabalho?]()
+- [Salesforce, quero aprender, por onde devo começar?]()
+- [Salesforce, oque aconteceu com o mercado de trabalho?]()
 
 <!--
 - [Self Coaching](https://www.ibccoaching.com.br/nossos-cursos/formacao-em-psc/)
