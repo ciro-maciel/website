@@ -89,6 +89,7 @@ Você tem uma ideia brilhante ou uma necessidade que deve ser solucionada com So
 - [What the Health](https://www.netflix.com/br/title/80174177)
 
 #### Articles
+- [Como é o dia-a-dia de trabalho no desenvolvimento de Software?]()
 - [Como um Software pode mudar sua empresa?]()
 - [Salesforce, o que é?]()
 - [Salesforce, quando usar?]()
@@ -96,9 +97,9 @@ Você tem uma ideia brilhante ou uma necessidade que deve ser solucionada com So
 - [Quais são os investimentos de um Software?]()
 - [Git, controle de código]()
 - [Workpace, análise]()
-- [Como é o dia-a-dia de trabalho?]()
 - [Salesforce, quero aprender, por onde devo começar?]()
 - [Salesforce, oque aconteceu com o mercado de trabalho?]()
+- [Só trabalho remoto, e agora?]()
 
 <!--
 - [Self Coaching](https://www.ibccoaching.com.br/nossos-cursos/formacao-em-psc/)
