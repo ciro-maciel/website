@@ -90,14 +90,13 @@ Você tem uma ideia brilhante ou uma necessidade que deve ser solucionada com So
 
 #### Articles
 - [Como um Software pode mudar sua empresa?]()
-- [Quais são os investimentos de um Software?]()
 - [Salesforce, o que é?]()
 - [Salesforce, quando usar?]()
 - [Salesforce, quando não usar?]()
+- [Quais são os investimentos de um Software?]()
 - [Git, controle de código]()
-- [Workpace, análise](http://ciro-maciel.me/)
-
-
+- [Workpace, análise]()
+- [Como é o dia-a-dia de trabalho?]()
 
 <!--
 - [Self Coaching](https://www.ibccoaching.com.br/nossos-cursos/formacao-em-psc/)
