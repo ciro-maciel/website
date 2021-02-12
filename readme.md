@@ -93,51 +93,50 @@ Você tem uma ideia brilhante ou uma necessidade que deve ser solucionada com So
   <div class="flex-row-item">
     <h4 >SaaS entrepreneur</h4>
     <ul>
-    <li>
-      <a href=''>Quais são os investimentos de um Software?</a>
+      <li>
+        <a href=''>Quais são os investimentos de um Software?</a>
       </li>
-    <li>
-      <a href=''>Workpace, análise</a>
+      <li>
+        <a href=''>Workpace, análise</a>
       </li>
-      </ul>
+    </ul>
   </div>
   <div class="flex-row-item">
     <h4>Software engineer</h4>
     <ul>
-    <li>
-      <a href=''>Como é o dia-a-dia de no desenvolvimento de Software?</a>
+      <li>
+        <a href=''>Como é o dia-a-dia de no desenvolvimento de Software?</a>
       </li>
-    <li>
-    <li>
-      <a href=''>Como um Software pode mudar sua empresa?</a>
+      <li>
+      <li>
+        <a href=''>Como um Software pode mudar sua empresa?</a>
+        </li>
+      <li>
+        <a href=''>Git, controle de código</a>
       </li>
-    <li>
-      <a href=''>Git, controle de código</a>
-      </li>
-      </ul>
-</div>
+    </ul>
+  </div>
   <div class="flex-row-item">
-  <h4>Salesforce Specialist</h4>
-    
+    <h4>Salesforce Specialist</h4>
     <ul>
-    <li>
-      <a href=''>Salesforce, o que é?</a>
+      <li>
+        <a href=''>Salesforce, o que é?</a>
       </li>
-    <li>
-    <li>
-      <a href=''>Salesforce, quando usar?</a>
+      <li>
+      <li>
+        <a href=''>Salesforce, quando usar?</a>
       </li>
-    <li>
-      <a href=''>Salesforce, quando não usar?</a>
+      <li>
+        <a href=''>Salesforce, quando não usar?</a>
       </li>
-    <li>
-      <a href=''>Salesforce, quero aprender, por onde devo começar?</a>
+      <li>
+        <a href=''>Salesforce, quero aprender, por onde devo começar?</a>
       </li>
-    <li>
-      <a href=''>Salesforce, oque aconteceu com o mercado de trabalho?</a>
+      <li>
+        <a href=''>Salesforce, oque aconteceu com o mercado de trabalho?</a>
       </li>
-      </ul>
-</div>
+    </ul>
+  </div>
 </div>
 
 #### Courses
