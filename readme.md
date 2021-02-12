@@ -95,7 +95,6 @@ Você tem uma ideia brilhante ou uma necessidade que deve ser solucionada com So
 | [Salesforce, quando não usar?]()                          | [Quais são os investimentos de um Software?]()            |
 | [Git, controle de código]()                               | [Workpace, análise]()                                     |
 | [Salesforce, quero aprender, por onde devo começar?]()    | [Salesforce, oque aconteceu com o mercado de trabalho?]() |
-| [Só trabalho remoto, e agora?]()                          |                                                           |
 
 #### Courses
 
