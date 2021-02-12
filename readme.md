@@ -103,7 +103,7 @@ Você tem uma ideia brilhante ou uma necessidade que deve ser solucionada com So
 
 ##### Salesforce Specialist
 
-- [Salesforce, o que é?]
+- [Salesforce, o que é?]()
 - [Salesforce, quando usar?]()
 - [Salesforce, quando não usar?]()
 - [Salesforce, quero aprender, por onde devo começar?]()
