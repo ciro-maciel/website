@@ -315,4 +315,11 @@ https://brianbalfour.com/
 .flex-row-container > .flex-row-item > h4 {
   margin-top: 0px !important;
  }
+.flex-row-container > .flex-row-item {
+  text-align: center;
+ }
+.flex-row-container > .flex-row-item > li {
+  text-align: center;
+  list-style: none;
+ }
 </style>
