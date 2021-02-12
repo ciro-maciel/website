@@ -101,6 +101,39 @@ Você tem uma ideia brilhante ou uma necessidade que deve ser solucionada com So
 - [Salesforce, oque aconteceu com o mercado de trabalho?]()
 - [Só trabalho remoto, e agora?]()
 
+
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+
+
+|               |               |       |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+
+<table style="width:100%">
+  <tr>
+    <th>Firstname</th>
+    <th>Lastname</th>
+    <th>Age</th>
+  </tr>
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td>
+    <td>50</td>
+  </tr>
+  <tr>
+    <td>Eve</td>
+    <td>Jackson</td>
+    <td>94</td>
+  </tr>
+</table>
+
+
 <!--
 - [Self Coaching](https://www.ibccoaching.com.br/nossos-cursos/formacao-em-psc/)
 -->
