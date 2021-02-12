@@ -118,12 +118,25 @@ Você tem uma ideia brilhante ou uma necessidade que deve ser solucionada com So
 </div>
   <div class="flex-row-item">
   <h4>Salesforce Specialist</h4>
-- [Salesforce, o que é?]()
-- [Salesforce, quando usar?]()
-- [Salesforce, quando não usar?]()
-- [Salesforce, quero aprender, por onde devo começar?]()
-- [Salesforce, oque aconteceu com o mercado de trabalho?]()
-
+    
+    <ul>
+    <li>
+      <a href=''>Salesforce, o que é?</a>
+      </li>
+    <li>
+    <li>
+      <a href=''>Salesforce, quando usar?</a>
+      </li>
+    <li>
+      <a href=''>Salesforce, quando não usar?</a>
+      </li>
+    <li>
+      <a href=''>Salesforce, quero aprender, por onde devo começar?</a>
+      </li>
+    <li>
+      <a href=''>Salesforce, oque aconteceu com o mercado de trabalho?</a>
+      </li>
+      </ul>
 </div>
 </div>
 
