@@ -89,6 +89,7 @@ Você tem uma ideia brilhante ou uma necessidade que deve ser solucionada com So
 - [What the Health](https://www.netflix.com/br/title/80174177)
 
 #### Articles
+
 | [Como é o dia-a-dia de trabalho no desenvolvimento de Software?]() | [Como um Software pode mudar sua empresa?]()              |
 | [Salesforce, o que é?]()                                           | [Salesforce, quando usar?]()                              |
 | [Salesforce, quando não usar?]()                                   | [Quais são os investimentos de um Software?]()            |
