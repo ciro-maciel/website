@@ -127,6 +127,13 @@ Você tem uma ideia brilhante ou uma necessidade que deve ser solucionada com So
 - [Front-end profissional com React.js](https://www.udemy.com/course/draft/3844452)
 
 
+<div class="flex-row-container">
+  <div class="flex-row-item">1</div>
+  <div class="flex-row-item">2</div>
+  <div class="flex-row-item">3</div>
+</div>
+
+
 <!--
 https://brianbalfour.com/
 -->
@@ -241,8 +248,19 @@ https://brianbalfour.com/
   border-bottom: 1px solid #eaecef !important;
   margin-bottom: 10px !important;
  }
- table {
-  border: 1px solid #dfe2e5;
-  border-radius: 8px;
- }
-</style>
+.flex-row-container {
+    background: #aaa;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+.flex-row-container > .flex-row-item {
+    flex: 1 1 30%; /*grow | shrink | basis */
+    height: 100px;
+}
+
+.flex-row-item {
+  background-color: #fff4e6;
+  border: 1px solid #f76707;
+}</style>
