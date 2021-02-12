@@ -97,7 +97,7 @@ Você tem uma ideia brilhante ou uma necessidade que deve ser solucionada com So
         <a href=''>Como é o dia-a-dia de no desenvolvimento de Software?</a>
       </li>
       <li>
-        <a href=''>Como um Software pode mudar sua empresa?</a>
+        <a href=''>Como sua atitude vai mudar seu trabalho?</a>
       </li>
       <li>
         <a href=''>Git, controle de código</a>
