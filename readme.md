@@ -92,22 +92,22 @@ Você tem uma ideia brilhante ou uma necessidade que deve ser solucionada com So
 <div>
   <div>
     <h4>SaaS entrepreneur</h4>
-    - [Quais são os investimentos de um Software?]()
-    - [Workpace, análise]()
+- [Quais são os investimentos de um Software?]()
+- [Workpace, análise]()
   </div>
   <div>
     <h4>Software engineer</h4>
-    - [Como é o dia-a-dia de no desenvolvimento de Software?]()
-    - [Como um Software pode mudar sua empresa?]()
-    - [Git, controle de código]()
+- [Como é o dia-a-dia de no desenvolvimento de Software?]()
+- [Como um Software pode mudar sua empresa?]()
+- [Git, controle de código]()
   </div>
   <div>
     <h4>Salesforce Specialist</h4>
-    - [Salesforce, o que é?]
-    - [Salesforce, quando usar?]()
-    - [Salesforce, quando não usar?]()
-    - [Salesforce, quero aprender, por onde devo começar?]()
-    - [Salesforce, oque aconteceu com o mercado de trabalho?]()
+- [Salesforce, o que é?]
+- [Salesforce, quando usar?]()
+- [Salesforce, quando não usar?]()
+- [Salesforce, quero aprender, por onde devo começar?]()
+- [Salesforce, oque aconteceu com o mercado de trabalho?]()
   </div>
 </div>
 
