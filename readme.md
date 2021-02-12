@@ -90,12 +90,12 @@ Você tem uma ideia brilhante ou uma necessidade que deve ser solucionada com So
 
 #### Articles
 
-| [Como é o dia-a-dia de trabalho no desenvolvimento de Software?]() | [Como um Software pode mudar sua empresa?]()              |
-| [Salesforce, o que é?]()                                           | [Salesforce, quando usar?]()                              |
-| [Salesforce, quando não usar?]()                                   | [Quais são os investimentos de um Software?]()            |
-| [Git, controle de código]()                                        | [Workpace, análise]()                                     |
-| [Salesforce, quero aprender, por onde devo começar?]()             | [Salesforce, oque aconteceu com o mercado de trabalho?]() |
-| [Só trabalho remoto, e agora?]()                                   |                                                           |
+| [Como é o dia-a-dia de no desenvolvimento de Software?]() | [Como um Software pode mudar sua empresa?]()              |
+| [Salesforce, o que é?]()                                  | [Salesforce, quando usar?]()                              |
+| [Salesforce, quando não usar?]()                          | [Quais são os investimentos de um Software?]()            |
+| [Git, controle de código]()                               | [Workpace, análise]()                                     |
+| [Salesforce, quero aprender, por onde devo começar?]()    | [Salesforce, oque aconteceu com o mercado de trabalho?]() |
+| [Só trabalho remoto, e agora?]()                          |                                                           |
 
 #### Courses
 
