@@ -226,4 +226,7 @@ https://brianbalfour.com/
   border-bottom: 1px solid #eaecef !important;
   margin-bottom: 10px !important;
  }
+ table {
+  border-radius: 8px;
+ }
 </style>
