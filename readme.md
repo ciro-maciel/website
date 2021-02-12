@@ -312,7 +312,7 @@ https://brianbalfour.com/
     min-width: 250px;
     padding: 0 10px;
 }
-.flex-row-container > h4 {
-  margin-top: 0px;
+.flex-row-container > .flex-row-item > h4 {
+  margin-top: 0px !important;
  }
 </style>
