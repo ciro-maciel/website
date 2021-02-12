@@ -89,24 +89,27 @@ Você tem uma ideia brilhante ou uma necessidade que deve ser solucionada com So
 
 #### Most Popular Articles
 
-  <table>
-    <tr>
-      <td>foo</td>
-      <td>foo</td>
-    </tr>
-    <tr>
-      <td>foo</td>
-      <td>foo</td>
-    </tr>
-  </table>
-
-
-
-| [Como é o dia-a-dia de no desenvolvimento de Software?]() | [Como um Software pode mudar sua empresa?]()              |
-| [Salesforce, o que é?]()                                  | [Salesforce, quando usar?]()                              |
-| [Salesforce, quando não usar?]()                          | [Quais são os investimentos de um Software?]()            |
-| [Git, controle de código]()                               | [Workpace, análise]()                                     |
-| [Salesforce, quero aprender, por onde devo começar?]()    | [Salesforce, oque aconteceu com o mercado de trabalho?]() |
+<div>
+  <div>
+    <h2>SaaS entrepreneur</h2>
+    - [Quais são os investimentos de um Software?]()
+    - [Workpace, análise]()
+  </div>
+  <div>
+    <h2>Software engineer</h2>
+    - [Como é o dia-a-dia de no desenvolvimento de Software?]()
+    - [Como um Software pode mudar sua empresa?]()
+    - [Git, controle de código]()
+  </div>
+  <div>
+    <h2>Salesforce Specialist</h2>
+    - [Salesforce, o que é?]
+    - [Salesforce, quando usar?]()
+    - [Salesforce, quando não usar?]()
+    - [Salesforce, quero aprender, por onde devo começar?]()
+    - [Salesforce, oque aconteceu com o mercado de trabalho?]()
+  </div>
+</div>
 
 <!--
 #### Courses
