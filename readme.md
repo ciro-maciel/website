@@ -94,7 +94,7 @@ Você tem uma ideia brilhante ou uma necessidade que deve ser solucionada com So
     <h4>Software engineer</h4>
     <ul>
       <li>
-        <a href=''>Como é o dia-a-dia de no desenvolvimento de Software?</a>
+        <a href=''>Dia-a-dia no desenvolvimento de Software</a>
       </li>
       <li>
         <a href=''>Como sua atitude vai mudar seu trabalho?</a>
