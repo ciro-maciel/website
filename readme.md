@@ -91,7 +91,7 @@ Você tem uma ideia brilhante ou uma necessidade que deve ser solucionada com So
 
 <div class="flex-row-container">
   <div class="flex-row-item">
-    <h4>SaaS entrepreneur</h4>
+    <h4 >SaaS entrepreneur</h4>
     - [Quais são os investimentos de um Software?]()
 - [Workpace, análise]()
 
@@ -285,5 +285,7 @@ https://brianbalfour.com/
     min-width: 250px;
     padding: 0 10px;
 }
-
+.flex-row-container > h4 {
+  margin-top: 0px;
+ }
 </style>
