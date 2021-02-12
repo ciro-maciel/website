@@ -274,7 +274,6 @@ https://brianbalfour.com/
   margin-bottom: 10px !important;
  }
 .flex-row-container {
-    background: #aaa;
     display: flex;
     flex-wrap: wrap;
     align-items: center;
@@ -285,7 +284,4 @@ https://brianbalfour.com/
     min-width: 250px;
 }
 
-.flex-row-item {
-  background-color: #fff4e6;
-  border: 1px solid #f76707;
-}</style>
+</style>
