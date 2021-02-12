@@ -101,7 +101,6 @@ Você tem uma ideia brilhante ou uma necessidade que deve ser solucionada com So
 
 - [Planejando um SaaS de sucesso](https://www.udemy.com/course/draft/3844544)
 - [Ferramentas e Métodos de Trabalho](https://www.udemy.com/course/draft/3844612)
-
 - [Back-end profissional com Node.js](https://www.udemy.com/course/draft/3844514)
 - [Front-end profissional com React.js](https://www.udemy.com/course/draft/3844452)
 
