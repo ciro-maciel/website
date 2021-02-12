@@ -94,10 +94,10 @@ Você tem uma ideia brilhante ou uma necessidade que deve ser solucionada com So
     <h4 >SaaS entrepreneur</h4>
     <ul>
     <li>
-      [Quais são os investimentos de um Software?]()
+      <a href=''>Quais são os investimentos de um Software?</a>
       </li>
     <li>
-      [Workpace, análise]()
+      <a href=''>Workpace, análise</a>
       </li>
       </ul>
   </div>
@@ -105,13 +105,14 @@ Você tem uma ideia brilhante ou uma necessidade que deve ser solucionada com So
     <h4>Software engineer</h4>
     <ul>
     <li>
-      [Como é o dia-a-dia de no desenvolvimento de Software?]()
+      <a href=''>Como é o dia-a-dia de no desenvolvimento de Software?</a>
       </li>
     <li>
-      [Como um Software pode mudar sua empresa?]()
+    <li>
+      <a href=''>Como um Software pode mudar sua empresa?</a>
       </li>
     <li>
-      [Git, controle de código]()
+      <a href=''>Git, controle de código</a>
       </li>
       </ul>
 </div>
