@@ -107,6 +107,7 @@ Você tem uma ideia brilhante ou uma necessidade que deve ser solucionada com So
 
 #### Courses
 
+- [Salesforce, abrace seu Futuro!](https://www.udemy.com/course/draft/3844860)
 - [Ferramentas e Métodos de Trabalho](https://www.udemy.com/course/draft/3844612)
 - [Back-end profissional com Node.js](https://www.udemy.com/course/draft/3844514)
 - [Front-end profissional com React.js](https://www.udemy.com/course/draft/3844452)
