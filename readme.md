@@ -227,6 +227,7 @@ https://brianbalfour.com/
   margin-bottom: 10px !important;
  }
  table {
+  border: 1px solid #ccc;
   border-radius: 8px;
  }
 </style>
