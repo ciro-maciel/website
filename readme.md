@@ -92,15 +92,28 @@ Você tem uma ideia brilhante ou uma necessidade que deve ser solucionada com So
 <div class="flex-row-container">
   <div class="flex-row-item">
     <h4 >SaaS entrepreneur</h4>
-    - [Quais são os investimentos de um Software?]()
-- [Workpace, análise]()
-
+    <ul>
+    <li>
+      [Quais são os investimentos de um Software?]()
+      </li>
+    <li>
+      [Workpace, análise]()
+      </li>
+      </ul>
   </div>
   <div class="flex-row-item">
     <h4>Software engineer</h4>
-- [Como é o dia-a-dia de no desenvolvimento de Software?]()
-- [Como um Software pode mudar sua empresa?]()
-- [Git, controle de código]()
+    <ul>
+    <li>
+      [Como é o dia-a-dia de no desenvolvimento de Software?]()
+      </li>
+    <li>
+      [Como um Software pode mudar sua empresa?]()
+      </li>
+    <li>
+      [Git, controle de código]()
+      </li>
+      </ul>
 </div>
   <div class="flex-row-item">
   <h4>Salesforce Specialist</h4>
