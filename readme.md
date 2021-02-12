@@ -278,10 +278,12 @@ https://brianbalfour.com/
     flex-wrap: wrap;
     align-items: center;
     justify-content: center;
+    align-items: stretch;
 }
 .flex-row-container > .flex-row-item {
     flex: 1 1 30%; /*grow | shrink | basis */
     min-width: 250px;
+    padding: 0 10px;
 }
 
 </style>
