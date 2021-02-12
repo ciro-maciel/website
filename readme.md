@@ -102,6 +102,9 @@ Você tem uma ideia brilhante ou uma necessidade que deve ser solucionada com So
       <li>
         <a href=''>Git, controle de código</a>
       </li>
+      <li>
+        <a href=''>Oque esta acontecendo com o mercado de trabalho?</a>
+      </li>
     </ul>
   </div>
   <div class="flex-row-item">
@@ -118,9 +121,6 @@ Você tem uma ideia brilhante ou uma necessidade que deve ser solucionada com So
       </li>
       <li>
         <a href=''>Salesforce, quero aprender, por onde devo começar?</a>
-      </li>
-      <li>
-        <a href=''>Salesforce, oque aconteceu com o mercado de trabalho?</a>
       </li>
     </ul>
   </div>
