@@ -258,6 +258,7 @@ https://brianbalfour.com/
 .flex-row-container > .flex-row-item {
     flex: 1 1 30%; /*grow | shrink | basis */
     height: 100px;
+  min-width: 576px;
 }
 
 .flex-row-item {
