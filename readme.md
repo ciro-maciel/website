@@ -157,7 +157,7 @@ Você tem uma ideia brilhante ou uma necessidade que deve ser solucionada com So
 
 ##### Software engineer
 
-- [Como é o dia-a-dia de no desenvolvimento de Software?]()
+- [Dia-a-dia no desenvolvimento de Software]()
 - [Como um Software pode mudar sua empresa?]()
 - [Git, controle de código]()
 
