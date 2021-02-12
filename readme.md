@@ -89,11 +89,44 @@ Você tem uma ideia brilhante ou uma necessidade que deve ser solucionada com So
 
 #### Most Popular Articles
 
+<div class="flex-row-container">
+  <div class="flex-row-item">
+    <h4>SaaS entrepreneur</h4>
+    - [Quais são os investimentos de um Software?]()
+- [Workpace, análise]()
+
+  </div>
+  <div class="flex-row-item">
+    <h4>Software engineer</h4>
+- [Como é o dia-a-dia de no desenvolvimento de Software?]()
+- [Como um Software pode mudar sua empresa?]()
+- [Git, controle de código]()
+</div>
+  <div class="flex-row-item">
+  <h4>Salesforce Specialist</h4>
+- [Salesforce, o que é?]()
+- [Salesforce, quando usar?]()
+- [Salesforce, quando não usar?]()
+- [Salesforce, quero aprender, por onde devo começar?]()
+- [Salesforce, oque aconteceu com o mercado de trabalho?]()
+
+</div>
+</div>
+
+#### Courses
+
+- [Salesforce, abrace seu Futuro!](https://www.udemy.com/course/draft/3844860)
+- [Ferramentas e Métodos de Trabalho](https://www.udemy.com/course/draft/3844612)
+- [Back-end profissional com Node.js](https://www.udemy.com/course/draft/3844514)
+- [Front-end profissional com React.js](https://www.udemy.com/course/draft/3844452)
+
+
+
+<!--
 ##### SaaS entrepreneur
 
 - [Quais são os investimentos de um Software?]()
 - [Workpace, análise]()
-
 
 ##### Software engineer
 
@@ -108,30 +141,22 @@ Você tem uma ideia brilhante ou uma necessidade que deve ser solucionada com So
 - [Salesforce, quando não usar?]()
 - [Salesforce, quero aprender, por onde devo começar?]()
 - [Salesforce, oque aconteceu com o mercado de trabalho?]()
+-->
+
+
+
+
+
 
 
 <!--
 #### Courses
-
 - [Planejando um SaaS de sucesso](https://www.udemy.com/course/draft/3844544)
 - [Ferramentas e Métodos de Trabalho](https://www.udemy.com/course/draft/3844612)
 - [Back-end profissional com Node.js](https://www.udemy.com/course/draft/3844514)
 - [Front-end profissional com React.js](https://www.udemy.com/course/draft/3844452)
 -->
 
-#### Courses
-
-- [Salesforce, abrace seu Futuro!](https://www.udemy.com/course/draft/3844860)
-- [Ferramentas e Métodos de Trabalho](https://www.udemy.com/course/draft/3844612)
-- [Back-end profissional com Node.js](https://www.udemy.com/course/draft/3844514)
-- [Front-end profissional com React.js](https://www.udemy.com/course/draft/3844452)
-
-
-<div class="flex-row-container">
-  <div class="flex-row-item">1</div>
-  <div class="flex-row-item">2</div>
-  <div class="flex-row-item">3</div>
-</div>
 
 
 <!--
