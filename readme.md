@@ -91,17 +91,6 @@ Você tem uma ideia brilhante ou uma necessidade que deve ser solucionada com So
 
 <div class="flex-row-container">
   <div class="flex-row-item">
-    <h4 >SaaS entrepreneur</h4>
-    <ul>
-      <li>
-        <a href=''>Quais são os investimentos de um Software?</a>
-      </li>
-      <li>
-        <a href=''>Workpace, análise</a>
-      </li>
-    </ul>
-  </div>
-  <div class="flex-row-item">
     <h4>Software engineer</h4>
     <ul>
       <li>
@@ -149,6 +138,18 @@ Você tem uma ideia brilhante ou uma necessidade que deve ser solucionada com So
 
 
 <!--
+  <div class="flex-row-item">
+    <h4 >SaaS entrepreneur</h4>
+    <ul>
+      <li>
+        <a href=''>Quais são os investimentos de um Software?</a>
+      </li>
+      <li>
+        <a href=''>Workpace, análise</a>
+      </li>
+    </ul>
+  </div>
+
 ##### SaaS entrepreneur
 
 - [Quais são os investimentos de um Software?]()
@@ -307,7 +308,7 @@ https://brianbalfour.com/
     align-items: stretch;
 }
 .flex-row-container > .flex-row-item {
-    flex: 1 1 30%; /*grow | shrink | basis */
+    flex: 1 1 50%; /*grow | shrink | basis */
     min-width: 250px;
     padding: 0 10px;
 }
