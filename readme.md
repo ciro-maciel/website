@@ -318,7 +318,7 @@ https://brianbalfour.com/
 .flex-row-container > .flex-row-item {
   text-align: center;
  }
-.flex-row-container > .flex-row-item > li {
+.flex-row-container > .flex-row-item > ul > li {
   text-align: center;
   list-style: none;
  }
