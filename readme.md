@@ -130,8 +130,8 @@ Você tem uma ideia brilhante ou uma necessidade que deve ser solucionada com So
 
 #### Courses
 
+- [Iniciando no trabalho de Desenvolvimento de Software](https://www.udemy.com/course/draft/3844612)
 - [Salesforce, abrace seu Futuro!](https://www.udemy.com/course/draft/3844860)
-- [Ferramentas e Métodos de Trabalho](https://www.udemy.com/course/draft/3844612)
 - [Em nuvem, com escala, sem pagar nada!](https://www.udemy.com/course/draft/3846052)
 - [Back-end profissional com Node.js](https://www.udemy.com/course/draft/3844514)
 - [Front-end profissional com React.js](https://www.udemy.com/course/draft/3844452)
@@ -150,20 +150,14 @@ Você tem uma ideia brilhante ou uma necessidade que deve ser solucionada com So
       </li>
     </ul>
   </div>
-
 ##### SaaS entrepreneur
-
 - [Quais são os investimentos de um Software?]()
 - [Workpace, análise]()
-
 ##### Software engineer
-
 - [Dia-a-dia no desenvolvimento de Software]()
 - [Como um Software pode mudar sua empresa?]()
 - [Git, controle de código]()
-
 ##### Salesforce specialist
-
 - [Salesforce, o que é?]()
 - [Salesforce, quando usar?]()
 - [Salesforce, quando não usar?]()
