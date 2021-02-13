@@ -203,6 +203,7 @@ https://brianbalfour.com/
 - [Tyler Tringas](https://tylertringas.com/)
 - [Preetam Nath](https://www.preetamnath.com/)
 - https://nathanbarry.com/good-things/
+- https://brianbalfour.com/
 -->
 
 <!--
