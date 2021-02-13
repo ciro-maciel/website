@@ -314,6 +314,9 @@ https://brianbalfour.com/
 .flex-row-container > .flex-row-item {
   text-align: center;
  }
+.flex-row-container > .flex-row-item > ul {
+  padding-left: 0px;
+ }
 .flex-row-container > .flex-row-item > ul > li {
   text-align: center;
   list-style: none;
