@@ -130,7 +130,7 @@ Você tem uma ideia brilhante ou uma necessidade que deve ser solucionada com So
 
 #### Courses
 
-- [você no Desenvolvimento de Software](https://www.udemy.com/course/draft/3844612)
+- [Você no Desenvolvimento de Software](https://www.udemy.com/course/draft/3844612)
 - [Salesforce, abrace seu Futuro!](https://www.udemy.com/course/draft/3844860)
 - [Em nuvem, com escala, sem pagar nada!](https://www.udemy.com/course/draft/3846052)
 - [Back-end profissional com Node.js](https://www.udemy.com/course/draft/3844514)
