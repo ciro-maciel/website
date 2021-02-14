@@ -1,7 +1,8 @@
 <script>
   if (window.location.protocol != "https:"){
       window.location.protocol = "https";
-  }
+  } 
+  document.title = "Ciro Cesar Maciel - WebSite";
 </script>
 
 <link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
