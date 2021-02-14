@@ -1,13 +1,21 @@
 <script>
+
   if (window.location.protocol != "https:"){
       window.location.protocol = "https";
   } 
   document.title = "Ciro Cesar Maciel - WebSite";
+  
+  const link = document.createElement('link');
+  
+  link.id = 'dynamic-favicon';
+  link.rel = 'shortcut icon';
+  link.href = 'https://raw.githubusercontent.com/ciro-maciel/website/master/assets/favicon.ico';
+  
+  document.head.appendChild(link);  
+ 
 </script>
 
 <link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
-
-<link rel="shortcut icon" href="https://raw.githubusercontent.com/ciro-maciel/website/master/assets/favicon.ico" />
 
 
 <script>
