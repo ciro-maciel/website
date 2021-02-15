@@ -86,7 +86,7 @@
     </ul>
   </div>
   <div class="flex-row-item">
-    <h4>Salesforce specialist</h4>
+    <h4>in Salesforce</h4>
     <ul>
       <li>
         Service Cloud
