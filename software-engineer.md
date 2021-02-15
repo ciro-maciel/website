@@ -1,3 +1,21 @@
+<script>
+
+  if (window.location.protocol != "https:"){
+      window.location.protocol = "https";
+  } 
+  document.title = "Ciro Cesar Maciel - Software Engineer";
+  
+  const link = document.createElement('link');
+  
+  link.id = 'dynamic-favicon';
+  link.rel = 'shortcut icon';
+  link.href = 'https://raw.githubusercontent.com/ciro-maciel/website/master/assets/favicon.ico';
+  
+  document.head.appendChild(link);  
+ 
+</script>
+
+
 <link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
 
 <strong style="font-size:16px">Communication</strong>, the base of everything. With over twenty years of professional experience.
