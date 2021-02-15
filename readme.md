@@ -42,7 +42,7 @@ window.H.init(42)
 
 Hello! 👋My name is <span style='font-size:18px'>Ciro</span>.
 
-I am 👨🏽‍🏫Entrepreneur in people and 👨🏽‍💻[Software engineer](/expertise) in a fantastic Family <a href="https://www.instagram.com/p/B_FxtLjJfeI/">(team 👨🏽👩🏻👦🏻)</a>
+I am 👨🏽‍🏫Entrepreneur in people and 👨🏽‍💻[Software engineer](/software-engineer) in a fantastic Family <a href="https://www.instagram.com/p/B_FxtLjJfeI/">(team 👨🏽👩🏻👦🏻)</a>
 
 Connect with me via [instagram](https://www.instagram.com/ciro.maciel/), [twitter](https://twitter.com/ciro_maciel_), [github](https://github.com/ciro-maciel), [linkedin](https://www.linkedin.com/in/ciro-maciel/), [facebook](https://www.facebook.com/ciro.maciel.git) or [email](mailto:me@ciro-maciel.me)
 
