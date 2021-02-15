@@ -107,9 +107,11 @@ Você tem uma ideia brilhante ou uma necessidade que deve ser solucionada com So
 - [Os 7 Hábitos das Pessoas Altamente Eficazes](https://amzn.to/3plKmid)
 - [Rápido e devagar](https://amzn.to/3ajC4mK)
 
+<!--
 ##### Negócio
 - [Sprint. O Método Usado no Google...](https://amzn.to/3aqQWjn)
 - [Receita Previsível](https://amzn.to/37gCNTI)
+-->
 
 #### Most Popular Articles
 
