@@ -227,6 +227,9 @@ Expertise:
 .flex-row-container > .flex-row-item {
   text-align: center;
  }
+  .flex-row-container > .flex-row-item > h4 {
+  margin-top: 10px !important;
+ }
 .flex-row-container > .flex-row-item > ul {
   padding-left: 0px;
  }
