@@ -28,11 +28,53 @@
 - Web Application Firewall - AWS WAF
 - UX/UI - transform a Figma job for Web/Mobile system
 
-with AWS - Lambda Functions, DynamoDB. Amazon S3, Route 53, Gateway API, CloudFront, EC2, WAF, IAM, Elasticsearch Service, CloudSearch
+with AWS 
+
+- Lambda Functions
+- DynamoDB
+- Amazon S3
+- Route 53
+- Gateway API
+- CloudFront
+- EC2
+- WAF
+- IAM
+- Elasticsearch Service
+- CloudSearch
+
+in Salesforce
+
+- Service Cloud
+- Community Cloud
+- Salesforce Lightning CRM
+- Aura components
+- Lightning Web Components (LWC)
+- Platform administration
+- Process builders
+- Flows
+- SOQL, SOSL 
+- Live Agent
+- Dataloader
+- Triggers
+- Apex Classes
+- Integrations (SOAP and REST API's)
+- Salesforce DX. 
 
 <!--
 - create, maintain and feed Data Lake
 - UX/UI
+Expertise:
+
+⦿ Salesforce skills: Service Cloud, Community Cloud, Salesforce Lightning CRM, Aura components, Lightning Web Components (LWC), Platform administration, Process builders, Flows, SOQL, Live Agent, Dataloader, Triggers, Apex Classes, SOQL, SOSL, Integrations (SOAP and REST API's), Salesforce DX. 
+
+⦿ Web skills: React/Preact, Redux, TDD,  JavaScript com ES6/ES7, ExpressJS/Restify, PWA, BabelJS, Yarn/NPM, Gulp/Grunt, HTML5, CSS3, Layout Responsivo, Cross-Browser Compatibility, Webpack, Styled Components, SSR, Optimize Front-End Performance.
+
+⦿ Back skills: Node.JS, REST API, GraphQL, NestJS.
+
+⦿ Cloud skills: in AWS - Lambda Functions, DynamoDB. Amazon S3, Route 53, Gateway API, CloudFront, EC2, WAF, IAM, Elasticsearch Service, CloudSearch.
+
+⦿ Teamwork: Scrum, Kanban, Lean principles and Agile methodologies.
+⦿ Process: Git/GitHub/BitBucket/GitLab, Pull Request, Merges, Rebase, CI/CD - Jenkins/Github Actions/GitLab CI/CD.
 -->
 
 <!--
@@ -47,6 +89,8 @@ with AWS - Lambda Functions, DynamoDB. Amazon S3, Route 53, Gateway API, CloudFr
 - https://aws.amazon.com/pt/solutions/implementations/data-lake-solution/
 - https://pt.slideshare.net/AmazonWebServicesLATAM/construindo-um-data-lake-na-aws-62826647
 -->
+
+
 
 
 
