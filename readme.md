@@ -100,7 +100,7 @@ Você tem uma ideia brilhante ou uma necessidade que deve ser solucionada com So
 - [Dieta de Gladiadores](https://www.netflix.com/br/title/81157840)
 - [What the Health](https://www.netflix.com/br/title/80174177)
 
-##### Vida/Estratégia/Financeiro
+##### Estratégia/Financeiro
 - [Dez bons conselhos de meu pai](https://amzn.to/3dgMgym)
 
 ##### Mindset
