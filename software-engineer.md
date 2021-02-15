@@ -3,7 +3,7 @@
   if (window.location.protocol != "https:"){
       window.location.protocol = "https";
   } 
-  document.title = "Ciro Cesar Maciel - Software Engineer";
+  document.title = "Ciro Cesar Maciel - Software engineer";
   
   const link = document.createElement('link');
   
