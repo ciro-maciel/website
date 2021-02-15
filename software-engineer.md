@@ -28,37 +28,100 @@
 - Web Application Firewall - AWS WAF
 - UX/UI - transform a Figma job for Web/Mobile system
 
-with AWS 
+<div class="flex-row-container">
+  <div class="flex-row-item">
+    <h4>with AWS</h4>
+    <ul>
+      <li>
+        Lambda Functions
+      </li>
+      <li>
+        DynamoDB
+      </li>
+      <li>
+        Amazon S3
+      </li>
+      <li>
+       Route 53
+      </li>
+      <li>
+       Gateway API
+      </li>
+      <li>
+       CloudFront
+      </li>
+      <li>
+       EC2
+      </li>
+      <li>
+       WAF
+      </li>
+      <li>
+       IAM
+      </li>
+      <li>
+       Elasticsearch Service
+      </li>
+      <li>
+       CloudSearch
+      </li>
+    </ul>
+  </div>
+  <div class="flex-row-item">
+    <h4>Salesforce specialist</h4>
+    <ul>
+      <li>
+        Service Cloud
+      </li>
+      <li>
+        Community Cloud
+      </li>
+      <li>
+        Salesforce Lightning CRM
+      </li>
+      <li>
+        Aura components
+      </li>
+      <li>
+        Lightning Web Components (LWC)
+      </li>
+      <li>
+        Platform administration
+      </li>
+      <li>
+        Process builders
+      </li>
+      <li>
+        Flows
+      </li>
+      <li>
+        SOQL, SOSL 
+      </li>
+      <li>
+        Live Agent
+      </li>
+      <li>
+        SOQL, SOSL 
+      </li>
+      <li>
+        Dataloader
+      </li>
+      <li>
+        Triggers
+      </li>
+      <li>
+        Apex Classes
+      </li>
+      <li>
+        Integrations (SOAP and REST API's)
+      </li>
+      <li>
+        Salesforce DX
+      </li>
+    </ul>
+  </div>
+</div>
 
-- Lambda Functions
-- DynamoDB
-- Amazon S3
-- Route 53
-- Gateway API
-- CloudFront
-- EC2
-- WAF
-- IAM
-- Elasticsearch Service
-- CloudSearch
-
-in Salesforce
-
-- Service Cloud
-- Community Cloud
-- Salesforce Lightning CRM
-- Aura components
-- Lightning Web Components (LWC)
-- Platform administration
-- Process builders
-- Flows
-- SOQL, SOSL 
-- Live Agent
-- Dataloader
-- Triggers
-- Apex Classes
-- Integrations (SOAP and REST API's)
-- Salesforce DX. 
 
 <!--
 - create, maintain and feed Data Lake
@@ -124,4 +187,30 @@ Expertise:
   border-bottom: 1px solid #eaecef !important;
   margin-bottom: 10px !important;
  }
+ .flex-row-container {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    align-items: stretch;
+}
+.flex-row-container > .flex-row-item {
+    flex: 1 1 50%; /*grow | shrink | basis */
+    min-width: 250px;
+    padding: 0 10px;
+}
+.flex-row-container > .flex-row-item > h4 {
+  margin-top: 0px !important;
+ }
+.flex-row-container > .flex-row-item {
+  text-align: center;
+ }
+.flex-row-container > .flex-row-item > ul {
+  padding-left: 0px;
+ }
+.flex-row-container > .flex-row-item > ul > li {
+  text-align: center;
+  list-style: none;
+ }
+
 </style>
