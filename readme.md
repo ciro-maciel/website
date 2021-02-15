@@ -96,10 +96,11 @@ Você tem uma ideia brilhante ou uma necessidade que deve ser solucionada com So
 
 #### Mudanças de Comportamento
 
-- [Dieta de Gladiadores](https://www.netflix.com/br/title/81157840)
-- [What the Health](https://www.netflix.com/br/title/80174177)
+- [Dez bons conselhos de meu pai](https://amzn.to/3dgMgym)
 - [Os 7 Hábitos das Pessoas Altamente Eficazes](https://amzn.to/3plKmid)
 - [Rápido e devagar](https://amzn.to/3ajC4mK)
+- [Dieta de Gladiadores](https://www.netflix.com/br/title/81157840)
+- [What the Health](https://www.netflix.com/br/title/80174177)
 - [Sprint. O Método Usado no Google...](https://amzn.to/3aqQWjn)
 - [Receita Previsível](https://amzn.to/37gCNTI)
 
