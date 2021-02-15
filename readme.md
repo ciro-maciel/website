@@ -105,7 +105,7 @@ Você tem uma ideia brilhante ou uma necessidade que deve ser solucionada com So
 
 ##### Mindset
 - [Os 7 Hábitos das Pessoas Altamente Eficazes](https://amzn.to/3plKmid)
-- [Rápido e devagar](https://amzn.to/3ajC4mK)
+- [12 Regras Para a Vida: Um Antídoto Para o Caos](https://amzn.to/3u0ug0X)
 
 <!--
 ##### Negócio
