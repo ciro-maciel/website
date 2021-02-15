@@ -28,6 +28,7 @@
 - Web Application Firewall - AWS WAF
 - UX/UI - transform a Figma job for Web/Mobile system
 
+with AWS - Lambda Functions, DynamoDB. Amazon S3, Route 53, Gateway API, CloudFront, EC2, WAF, IAM, Elasticsearch Service, CloudSearch
 
 <!--
 - create, maintain and feed Data Lake
