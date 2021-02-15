@@ -70,7 +70,7 @@ with AWS - Lambda Functions, DynamoDB. Amazon S3, Route 53, Gateway API, CloudFr
     display: none;
  }
  h1:after {
-  content: 'Expertise';
+  content: 'Software engineer';
  }
  .container-lg{
   max-width: 900px
