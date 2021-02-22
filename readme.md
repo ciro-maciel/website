@@ -40,9 +40,9 @@ window.H.init(42)
 <img width="96" style="border-radius: 60px;" src="https://avatars0.githubusercontent.com/u/349602?s=460&u=cf310de88444a92133decdaa8b8e75ffc5e77975&v=4" height="96" alt="">
 </div>
 
-Hello! 👋My name is <span style='font-size:18px'>Ciro</span>.
+Hello! 👋My name is <strong style='font-size:18px'>Ciro</strong>.
 
-I am 👨🏽‍🏫Entrepreneur in people and 👨🏽‍💻[Software engineer](/software-engineer) in a fantastic Family <a href="https://www.instagram.com/p/B_FxtLjJfeI/">(team 👨🏽👩🏻👦🏻)</a>
+I am 👨🏽‍🏫Entrepreneur in <strong style='font-size:16px'>People</strong> and 👨🏽‍💻[Software engineer](/software-engineer) in a fantastic Family <a href="https://www.instagram.com/p/B_FxtLjJfeI/">(team 👨🏽👩🏻👦🏻)</a>
 
 Connect with me via [instagram](https://www.instagram.com/ciro.maciel/), [twitter](https://twitter.com/by_ciro_maciel), [github](https://github.com/ciro-maciel), [linkedin](https://www.linkedin.com/in/ciro-maciel/), [facebook](https://www.facebook.com/by.ciro.maciel) or [email](mailto:me@ciro-maciel.me)
 
