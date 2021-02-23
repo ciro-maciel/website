@@ -142,7 +142,7 @@ Você tem uma ideia brilhante ou uma necessidade que deve ser solucionada com So
         <a href=''>Oque esta acontecendo com o mercado de trabalho?</a>
       </li>
       <li>
-        <a href=''>Workpace, análise técnica e de custos de operação</a>
+        <a href=''>Workpace, análise técnica e custos de operação</a>
       </li>
     </ul>
   </div>
