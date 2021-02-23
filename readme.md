@@ -141,6 +141,9 @@ Você tem uma ideia brilhante ou uma necessidade que deve ser solucionada com So
       <li>
         <a href=''>Oque esta acontecendo com o mercado de trabalho?</a>
       </li>
+      <li>
+        <a href=''>Workpace, análise técnica e de custos de operação</a>
+      </li>
     </ul>
   </div>
   <div class="flex-row-item">
