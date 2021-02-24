@@ -261,7 +261,7 @@ https://brianbalfour.com/
 - https://transferwise.com/
 - https://www.chatwoot.com/
 - https://www.loom.com/
-- https://www.hotjar.com/
+- https://small.chat/
 -->
 
 <!--
