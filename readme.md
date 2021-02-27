@@ -102,6 +102,7 @@ Você tem uma ideia brilhante ou uma necessidade que deve ser solucionada com So
 
 #### Open Source
 - [Plane](https://github.com/c37-cnc/plane.js) - JavaScript Engine for Building 2D Element with HTML5 Canvas
+- [utility](https://github.com/ciro-maciel/utility) - utility package for development Applications
 
 
 #### Mudanças de Comportamento
