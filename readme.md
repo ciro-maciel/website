@@ -128,7 +128,7 @@ Você tem uma ideia brilhante ou uma necessidade que deve ser solucionada com So
 
 <div class="flex-row-container">
   <div class="flex-row-item">
-    <h4>Software engineer</h4>
+    <!--<h4>Software engineer</h4>-->
     <ul>
       <li>
         <a href=''>Dia-a-dia no desenvolvimento de Software</a>
@@ -145,7 +145,7 @@ Você tem uma ideia brilhante ou uma necessidade que deve ser solucionada com So
     </ul>
   </div>
   <div class="flex-row-item">
-    <h4>Salesforce specialist</h4>
+    <!--<h4>Salesforce specialist</h4>-->
     <ul>
       <li>
         <a href=''>Salesforce, o que é?</a>
