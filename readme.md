@@ -134,9 +134,6 @@ Você tem uma ideia brilhante ou uma necessidade que deve ser solucionada com So
         <a href=''>Dia-a-dia no desenvolvimento de Software</a>
       </li>
       <li>
-        <a href=''>Como sua atitude vai mudar seu trabalho?</a>
-      </li>
-      <li>
         <a href=''>Git, controle de código</a>
       </li>
       <li>
