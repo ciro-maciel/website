@@ -228,7 +228,7 @@ https://brianbalfour.com/
 -->
 
 <!--
-#### Useful links
+#### Useful links | Tools
 - [Amazon Web Services](https://aws.amazon.com/)
 - [Indie Hackers](https://www.indiehackers.com/)
 - [Nomad List](https://nomadlist.com/)
@@ -237,6 +237,7 @@ https://brianbalfour.com/
 - [Preetam Nath](https://www.preetamnath.com/)
 - https://nathanbarry.com/good-things/
 - https://brianbalfour.com/
+- https://github.com/raineorshine/npm-check-updates
 -->
 
 <!--
