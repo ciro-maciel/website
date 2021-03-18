@@ -30,5 +30,14 @@ How I score deals
 ✅ Is the trial to paid conversion rate healthy
 ✅ Does it have an expansion path
 
+Micro-SaaS for $150k 🤩🚀 
+TLDR: 
+💰 $60K ARR, 92% profit 
+📈 +210 MRR/mo 
+💁 4 support tickets/week 
+📘 Buy, fix then hold Expecting: 
+👌 246% IRR by EOY3 
+😍 30% Y1 cash/cash, 39% Y2 cash/cash
+
 -->
 
