@@ -44,9 +44,6 @@ Hello! 👋My name is <strong style='font-size:18px'>Ciro</strong>.
 
 I am 👨🏽‍🏫Entrepreneur in <strong style='font-size:16px'>People</strong> and 👨🏽‍💻[Software engineer](/software-engineer) in a fantastic Family <a href="https://www.instagram.com/p/B_FxtLjJfeI/">(team 👨🏽👩🏻👦🏻)</a>
 
-<div id="aed933ef50-8bd0-11eb-b09d-010ab7c360ba"></div>
-<script async src="https://cdn.allears.cc/embed.js"></script>
-
 <!--
 uma história autêntica de sobrevivência pessoal, coragem e determinação - https://microangel.so/p/bootstrapping-2-0
 
@@ -59,6 +56,9 @@ A melhor maneira de entender do que estamos falando é nos conhecer. Embora não
 
 
 Connect with me via [instagram](https://www.instagram.com/ciro.maciel/), [twitter](https://twitter.com/by_ciro_maciel), [github](https://github.com/ciro-maciel), [linkedin](https://www.linkedin.com/in/ciro-maciel/), [facebook](https://www.facebook.com/by.ciro.maciel) or [email](mailto:me@ciro-maciel.me)
+
+<div id="aed933ef50-8bd0-11eb-b09d-010ab7c360ba"></div>
+<script async src="https://cdn.allears.cc/embed.js"></script>
 
 <!--
 Subscribe to get my weekly newsletter and latest articles.
