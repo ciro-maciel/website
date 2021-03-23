@@ -61,6 +61,7 @@ Connect with me via [instagram](https://www.instagram.com/ciro.maciel/), [twitte
 <script async src="https://cdn.allears.cc/embed.js"></script>
 
 <!--
+
 Subscribe to get my weekly newsletter and latest articles.
 https://nathanbarry.com/about/
 <form action="https://forms.ciro-maciel.me/s/p/23cbcde6119db97f?refresh=https%3A%2F%2Fforms.ciro-maciel.me%2F%23test" method="POST"><label>Your name:<input type="text" name="name" required=""></label><label>Your email:<input type="email" name="email" required=""></label>
