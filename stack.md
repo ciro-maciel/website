@@ -39,6 +39,7 @@ https://lunchmoney.app/stack
 
 ##### Tools
 - [Visual Studio Code](https://code.visualstudio.com/)
+- [Sentry](https://sentry.io/)
 
 - [Template Front-end React.js Application](https://github.com/ciro-maciel/template-front-end-react.js-application)
 - [Template Back-end Node.js Services](https://github.com/ciro-maciel/template-back-end-node.js-services)
