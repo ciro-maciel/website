@@ -39,6 +39,7 @@ https://lunchmoney.app/stack
 
 ##### Tools
 - [Visual Studio Code](https://code.visualstudio.com/)
+<!--
     - [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
     - [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
     - [HTML Snippets](https://marketplace.visualstudio.com/items?itemName=abusaidm.html-snippets)
@@ -47,7 +48,8 @@ https://lunchmoney.app/stack
     - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
     - [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
     - [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
-    - [FiraCode](https://github.com/tonsky/FiraCode)
+-->
+- [FiraCode](https://github.com/tonsky/FiraCode)
 - [Sentry](https://github.com/getsentry/sentry)
 - [CleanShot X](https://cleanshot.com/)
 - [ImageOptim](https://imageoptim.com/)
