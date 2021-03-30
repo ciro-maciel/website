@@ -1,8 +1,26 @@
-<link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
 <!--
 https://lunchmoney.app/stack
 -->
-####   A SaaS Solopreneur's Toolkit
+<script>
+
+  if (window.location.protocol != "https:"){
+      window.location.protocol = "https";
+  } 
+  document.title = "our Stack - Ciro Cesar Maciel";
+  
+  const link = document.createElement('link');
+  
+  link.id = 'dynamic-favicon';
+  link.rel = 'shortcut icon';
+  link.href = 'https://raw.githubusercontent.com/ciro-maciel/website/master/assets/favicon.ico';
+  
+  document.head.appendChild(link);  
+ 
+</script>
+
+<link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
+
+####   A SaaS Family (team 👨🏽👩🏻👦🏻) Toolkit
 
 - [React](https://reactjs.org/)
 - [Ant Design](https://ant.design/)
@@ -17,7 +35,19 @@ https://lunchmoney.app/stack
 
 
 
+
+
 - [iMac Pro (2017)](https://support.apple.com/kb/SP771)
+
+
+
+<div style="text-align: right; float: right;">
+ <span style="font-size: 11px"> made with ❤️  by </span>
+ <a href="http://workspace.ciro-maciel.me" style="font-size: 11px" target="_blank">
+   <strong style="font-size: 11px">workspace</strong>
+ </a>
+</div>
+
 
 
 <style>
@@ -32,7 +62,7 @@ https://lunchmoney.app/stack
     display: none;
  }
  h1:after {
-  content: 'our Stack';
+  content: 'Ciro Cesar Maciel - our Stack';
  }
  .container-lg{
   max-width: 900px
@@ -43,3 +73,4 @@ https://lunchmoney.app/stack
   margin-bottom: 10px !important;
  }
 </style>
+
