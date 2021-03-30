@@ -12,4 +12,5 @@
 - https://www.ycombinator.com/
 - https://www.startupschool.org/dashboard
 - http://paulgraham.com/fr.html
+- https://microangel.so/
 -->
