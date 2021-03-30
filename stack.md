@@ -46,3 +46,4 @@ https://lunchmoney.app/stack
   border-bottom: 1px solid #eaecef !important;
   margin-bottom: 10px !important;
  }
+</style>
