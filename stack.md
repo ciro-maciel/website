@@ -34,6 +34,10 @@ https://lunchmoney.app/stack
 ##### Tech
 - [React](https://reactjs.org/)
 - [Node.js](https://nodejs.org/)
+- [Chart.js](https://www.chartjs.org/)
+- [Template Front-end React.js Application](https://github.com/ciro-maciel/template-front-end-react.js-application)
+- [Template Back-end Node.js Services](https://github.com/ciro-maciel/template-back-end-node.js-services)
+- [Template Back-end Node.js GraphQL](https://github.com/ciro-maciel/template-back-end-node.js-graphql)
 
 ##### Design 
 - [Figma](https://www.figma.com/)
