@@ -45,6 +45,8 @@ https://lunchmoney.app/stack
 - [Paddle](https://paddle.com/)
 - [Wise](https://wise.com/)
 - [Loom](https://www.loom.com/)
+- [Hotjar](https://www.hotjar.com/)
+- [Google Tag Manager](https://tagmanager.google.com/)
 - [Ahrefs](https://ahrefs.com/)
 - [Google Analytics](https://analytics.google.com/)
 - [Testimonial.to](https://testimonial.to/)
