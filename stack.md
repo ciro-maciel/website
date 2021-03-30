@@ -30,6 +30,8 @@ https://lunchmoney.app/stack
     - Route 53
     - Gateway API
     - CloudFront
+    - Certificate Manager
+    - CloudFormation
 - [Vultr](https://www.vultr.com/)
 - [Github](https://github.com/)
 - [GitHub Actions](https://github.com/features/actions)
