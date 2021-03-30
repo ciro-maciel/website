@@ -84,6 +84,7 @@ https://lunchmoney.app/stack
 - [Wise](https://wise.com/)
 - [Loom](https://www.loom.com/)
 - [Hotjar](https://www.hotjar.com/)
+- [Smallchat](https://small.chat/)
 - [Google Tag Manager](https://tagmanager.google.com/)
 - [Ahrefs](https://ahrefs.com/)
 - [Google Analytics](https://analytics.google.com/)
