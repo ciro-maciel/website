@@ -45,12 +45,9 @@ https://lunchmoney.app/stack
 - [Testimonial.to](https://testimonial.to/)
 
 
-
-
-
-
+##### Hardware
 - [iMac Pro (2017)](https://support.apple.com/kb/SP771)
-
+- [AirPods Pro](https://www.apple.com/br/airpods-pro/specs/)
 
 
 <hr />
