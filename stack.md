@@ -100,9 +100,7 @@ https://lunchmoney.app/stack
 <hr />
 
 <div style="text-align: left; float: left;">
- <a href="https://www.patreon.com/ciro_maciel" style="font-size: 11px" target="_blank">
-   support me
- </a>
+  [our Stack](/stack)
 </div>
 
 <div style="text-align: right; float: right;">
@@ -124,7 +122,7 @@ https://lunchmoney.app/stack
     display: none;
  }
  h1:after {
-  content: 'Ciro Cesar Maciel - our Stack';
+  content: 'our Stack';
  }
  .container-lg{
   max-width: 900px
