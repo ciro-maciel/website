@@ -24,7 +24,12 @@ https://lunchmoney.app/stack
 
 ##### Services
 - [Amazon Web Services](https://aws.amazon.com/)
-   - sasa   
+    - Lambda Functions
+    - DynamoDB
+    - Amazon S3
+    - Route 53
+    - Gateway API
+    - CloudFront
 - [Vultr](https://www.vultr.com/)
 - [Github](https://github.com/)
 - [GitHub Actions](https://github.com/features/actions)
