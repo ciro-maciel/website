@@ -39,7 +39,6 @@ https://lunchmoney.app/stack
 
 ##### Tools
 - [Visual Studio Code](https://code.visualstudio.com/)
-    - [vscode-styled-components](https://marketplace.visualstudio.com/items?itemName=jpoissonnier.vscode-styled-components)
     - [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
     - [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
     - [HTML Snippets](https://marketplace.visualstudio.com/items?itemName=abusaidm.html-snippets)
