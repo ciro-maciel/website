@@ -78,11 +78,12 @@ https://lunchmoney.app/stack
 - [Google Analytics](https://analytics.google.com/)
 - [Testimonial.to](https://testimonial.to/)
 
+<!--
 ##### Hardware
 - [iMac Pro (2017)](https://support.apple.com/kb/SP771)
 - [AirPods Pro](https://www.apple.com/br/airpods-pro/specs/)
 - [Mirra 2 Chair](https://www.hermanmiller.com/products/seating/office-chairs/mirra-2-chairs/)
-
+-->
 
 <hr />
 
@@ -124,3 +125,4 @@ https://lunchmoney.app/stack
   margin-bottom: 10px !important;
  }
 </style>
+
