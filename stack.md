@@ -69,6 +69,7 @@ https://lunchmoney.app/stack
 - [Favicon](http://favicon.io/)
 
 ##### Business
+- [Slack](https://slack.com/)
 - [Paddle](https://paddle.com/)
 - [Wise](https://wise.com/)
 - [Loom](https://www.loom.com/)
