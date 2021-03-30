@@ -24,7 +24,7 @@ https://lunchmoney.app/stack
 
 ##### Services
 - [Amazon Web Services](https://aws.amazon.com/)
-    - Lambda Functions | DynamoDB | S3 | Route 53 | Gateway API | CloudFront | Certificate Manager | CloudFormation
+    Lambda Functions | DynamoDB | S3 | Route 53 | Gateway API | CloudFront | Certificate Manager | CloudFormation
 - [Vultr](https://www.vultr.com/)
 - [Github](https://github.com/)
     - [Actions](https://github.com/features/actions)
