@@ -22,16 +22,28 @@ https://lunchmoney.app/stack
 
 ####   A SaaS Family (team 👨🏽👩🏻👦🏻) Toolkit
 
-- [React](https://reactjs.org/)
-- [Ant Design](https://ant.design/)
-- [Node.js](https://nodejs.org/)
+##### Services
 - [Amazon Web Services](https://aws.amazon.com/)
-- [Free vectors icons and illustrations from Streamline](https://streamlineicons.com/)
 - [Github](https://github.com/)
+- [GitHub Actions](https://github.com/features/actions)
+- [NPM](https://www.npmjs.com/)
+
+##### Tools
 - [Visual Studio Code](https://code.visualstudio.com/)
+
+##### Tech
+- [React](https://reactjs.org/)
+- [Node.js](https://nodejs.org/)
+
+##### Design 
+- [Free vectors icons and illustrations from Streamline](https://streamlineicons.com/)
+- [Ant Design](https://ant.design/)
+
+##### Marketing
 - [Ahrefs](https://ahrefs.com/)
 - [Google Analytics](https://analytics.google.com/)
 - [Testimonial.to](https://testimonial.to/)
+
 
 
 
@@ -81,4 +93,3 @@ https://lunchmoney.app/stack
   margin-bottom: 10px !important;
  }
 </style>
-
