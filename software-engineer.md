@@ -202,7 +202,7 @@ Expertise:
     display: none;
  }
  h1:after {
-  content: 'Software engineer';
+  content: 'Ciro Cesar Maciel - Software engineer';
  }
  .container-lg{
   max-width: 900px
