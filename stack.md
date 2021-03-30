@@ -51,6 +51,7 @@ https://lunchmoney.app/stack
 - [Sentry](https://github.com/getsentry/sentry)
 - [CleanShot X](https://cleanshot.com/)
 - [ImageOptim](https://imageoptim.com/)
+- [ColorSlur‪p‬](https://apps.apple.com/us/app/colorslurp/id1287239339?ls=1&mt=12)
 - [CopyClip](https://apps.apple.com/us/app/copyclip-clipboard-history/id595191960?mt=12)
 - [Template Front-end React.js Application](https://github.com/ciro-maciel/template-front-end-react.js-application)
 - [Template Back-end Node.js Services](https://github.com/ciro-maciel/template-back-end-node.js-services)
