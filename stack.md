@@ -48,6 +48,7 @@ https://lunchmoney.app/stack
 - [React](https://reactjs.org/)
 - [Node.js](https://nodejs.org/)
 - [MeiliSearch](https://www.meilisearch.com/)
+- [serverless framework](https://www.serverless.com/)
 - [Chart.js](https://www.chartjs.org/)
 
 ##### Design 
