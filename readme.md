@@ -293,9 +293,9 @@ https://brianbalfour.com/
 <hr />
 
 <div style="text-align: left; float: left;">
- <a href="https://www.patreon.com/ciro_maciel" style="font-size: 11px" target="_blank">
-   support me
- </a>
+  <a href="/stack" style="font-size: 11px" target="_blank">
+    our Stack
+  </a>
 </div>
 
 <div style="text-align: right; float: right;">
