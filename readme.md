@@ -259,18 +259,6 @@ https://brianbalfour.com/
 -->
 
 <!--
-### Business Tool
-- https://www.hotjar.com/
-- https://analytics.google.com/
-- https://tagmanager.google.com/
-- https://paddle.com/
-- https://transferwise.com/
-- https://www.chatwoot.com/
-- https://www.loom.com/
-- https://small.chat/
--->
-
-<!--
 ### Latest Articles
 - [Tools - Why?](http://ciro-maciel.me/)
 - [Nucleus - Architecture](http://ciro-maciel.me/)
