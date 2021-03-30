@@ -100,7 +100,9 @@ https://lunchmoney.app/stack
 <hr />
 
 <div style="text-align: left; float: left;">
-  [our Stack](/stack)
+  <a href="/stack" style="font-size: 11px" target="_blank">
+    our Stack
+  </a>
 </div>
 
 <div style="text-align: right; float: right;">
