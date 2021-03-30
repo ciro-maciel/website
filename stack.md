@@ -1,15 +1,7 @@
 <!--
 https://lunchmoney.app/stack
 -->
-
-###   A SaaS Solopreneur's Toolkit
-
-
-<br/>
-
-
-
-
+####   A SaaS Solopreneur's Toolkit
 
 - [React](https://reactjs.org/)
 - [Ant Design](https://ant.design/)
