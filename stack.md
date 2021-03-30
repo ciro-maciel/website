@@ -36,10 +36,15 @@ https://lunchmoney.app/stack
 - [Node.js](https://nodejs.org/)
 
 ##### Design 
-- [Free vectors icons and illustrations from Streamline](https://streamlineicons.com/)
+- [Figma](https://www.figma.com/)
 - [Ant Design](https://ant.design/)
+- [Free vectors icons and illustrations from Streamline](https://streamlineicons.com/)
+- [Favicon](http://favicon.io/)
 
-##### Marketing
+##### Business
+- [Paddle](https://paddle.com/)
+- [Wise](https://wise.com/)
+- [Loom](https://www.loom.com/)
 - [Ahrefs](https://ahrefs.com/)
 - [Google Analytics](https://analytics.google.com/)
 - [Testimonial.to](https://testimonial.to/)
