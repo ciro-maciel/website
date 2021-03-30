@@ -100,7 +100,7 @@ https://lunchmoney.app/stack
 <hr />
 
 <div style="text-align: left; float: left;">
-  <a href="/stack" style="font-size: 11px" target="_blank">
+  <a href="/stack" style="font-size: 11px">
     our Stack
   </a>
 </div>
@@ -124,7 +124,7 @@ https://lunchmoney.app/stack
     display: none;
  }
  h1:after {
-  content: 'our Stack';
+  content: 'Ciro Cesar Maciel - our Stack';
  }
  .container-lg{
   max-width: 900px
