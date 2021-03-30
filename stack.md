@@ -34,7 +34,7 @@ https://lunchmoney.app/stack
     - CloudFormation
 - [Vultr](https://www.vultr.com/)
 - [Github](https://github.com/)
-- [GitHub Actions](https://github.com/features/actions)
+    - [Actions](https://github.com/features/actions)
 - [NPM](https://www.npmjs.com/)
 
 ##### Tools
