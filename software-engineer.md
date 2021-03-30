@@ -176,7 +176,7 @@ Expertise:
 
 
 <div style="text-align: left; float: left;">
-  <a href="/stack" style="font-size: 11px" target="_blank">
+  <a href="/stack" style="font-size: 11px">
     our Stack
   </a>
 </div>
