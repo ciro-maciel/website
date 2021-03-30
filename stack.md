@@ -41,6 +41,14 @@ https://lunchmoney.app/stack
 
 
 
+<hr />
+
+<div style="text-align: left; float: left;">
+ <a href="https://www.patreon.com/ciro_maciel" style="font-size: 11px" target="_blank">
+   support me
+ </a>
+</div>
+
 <div style="text-align: right; float: right;">
  <span style="font-size: 11px"> made with ❤️  by </span>
  <a href="http://workspace.ciro-maciel.me" style="font-size: 11px" target="_blank">
