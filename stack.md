@@ -64,11 +64,12 @@ https://lunchmoney.app/stack
 ##### Tech
 - [React](https://reactjs.org/)
 - [Node.js](https://nodejs.org/)
+- [GraphQL](https://graphql.org/)
 - [MeiliSearch](https://www.meilisearch.com/)
 - [serverless framework](https://www.serverless.com/)
 - [Chart.js](https://www.chartjs.org/)
 
-##### Templates
+##### Code
 - [Front-end React.js Application](https://github.com/ciro-maciel/template-front-end-react.js-application)
 - [Back-end Node.js Services](https://github.com/ciro-maciel/template-back-end-node.js-services)
 - [Back-end Node.js GraphQL](https://github.com/ciro-maciel/template-back-end-node.js-graphql)
@@ -76,6 +77,7 @@ https://lunchmoney.app/stack
 ##### Design 
 - [Figma](https://www.figma.com/)
 - [Ant Design](https://ant.design/)
+- [AVATARZ](https://www.avatarz.design/)
 - [Free vectors icons and illustrations from Streamline](https://streamlineicons.com/)
 - [Favicon](http://favicon.io/)
 
