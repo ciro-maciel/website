@@ -82,10 +82,13 @@ https://lunchmoney.app/stack
 - [Favicon](http://favicon.io/)
 
 ##### Business
+- [Workspace by ciro-maciel](https://workspace.ciro-maciel.me/)
+- [Monitors by ciro-maciel](https://monitors.ciro-maciel.me/)
 - [Slack](https://slack.com/)
 - [Paddle](https://paddle.com/)
 - [Wise](https://wise.com/)
 - [Loom](https://www.loom.com/)
+- [Querybook](https://www.querybook.org/)
 - [Hotjar](https://www.hotjar.com/)
 - [Smallchat](https://small.chat/)
 - [Google Tag Manager](https://tagmanager.google.com/)
