@@ -41,7 +41,6 @@ https://lunchmoney.app/stack
 ##### Tools
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [FiraCode](https://github.com/tonsky/FiraCode)
-- [Sentry](https://github.com/getsentry/sentry)
 - [CleanShot X](https://cleanshot.com/)
 - [ImageOptim](https://imageoptim.com/)
 - [MenuMeters](https://github.com/yujitach/MenuMeters)
@@ -69,10 +68,11 @@ https://lunchmoney.app/stack
 - [serverless framework](https://www.serverless.com/)
 - [Chart.js](https://www.chartjs.org/)
 
-##### Code
+##### Coding
 - [Front-end React.js Application](https://github.com/ciro-maciel/template-front-end-react.js-application)
 - [Back-end Node.js Services](https://github.com/ciro-maciel/template-back-end-node.js-services)
 - [Back-end Node.js GraphQL](https://github.com/ciro-maciel/template-back-end-node.js-graphql)
+- [Sentry](https://github.com/getsentry/sentry)
 
 ##### Design 
 - [Figma](https://www.figma.com/)
