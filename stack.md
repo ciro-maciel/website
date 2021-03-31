@@ -32,6 +32,7 @@ https://lunchmoney.app/stack
     - CloudFront
     - Certificate Manager
     - CloudFormation
+    - CloudWatch
 - [Vultr](https://www.vultr.com/)
 - [Github](https://github.com/)
     - [Actions](https://github.com/features/actions)
