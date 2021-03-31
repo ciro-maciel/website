@@ -57,11 +57,12 @@ A melhor maneira de entender do que estamos falando é nos conhecer. Embora não
 
 Connect with me via [instagram](https://www.instagram.com/ciro.maciel/), [twitter](https://twitter.com/by_ciro_maciel), [github](https://github.com/ciro-maciel), [linkedin](https://www.linkedin.com/in/ciro-maciel/), [facebook](https://www.facebook.com/by.ciro.maciel) or [email](mailto:me@ciro-maciel.me)
 
+<!--
 <div id="aed933ef50-8bd0-11eb-b09d-010ab7c360ba"></div>
 <script async src="https://cdn.allears.cc/embed.js"></script>
+-->
 
 <!--
-
 Subscribe to get my weekly newsletter and latest articles.
 https://nathanbarry.com/about/
 <form action="https://forms.ciro-maciel.me/s/p/23cbcde6119db97f?refresh=https%3A%2F%2Fforms.ciro-maciel.me%2F%23test" method="POST"><label>Your name:<input type="text" name="name" required=""></label><label>Your email:<input type="email" name="email" required=""></label>
