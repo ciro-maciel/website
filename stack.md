@@ -88,6 +88,7 @@ https://lunchmoney.app/stack
 - [Slack](https://slack.com/)
 - [Paddle](https://paddle.com/)
 - [Wise](https://wise.com/)
+- [PandaDoc](https://www.pandadoc.com/)
 - [Loom](https://www.loom.com/)
 - [Querybook](https://www.querybook.org/)
 - [Hotjar](https://www.hotjar.com/)
