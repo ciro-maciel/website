@@ -69,9 +69,9 @@ https://lunchmoney.app/stack
 - [Chart.js](https://www.chartjs.org/)
 
 ##### Coding
-- [Front-end React.js Application](https://github.com/ciro-maciel/template-front-end-react.js-application)
-- [Back-end Node.js Services](https://github.com/ciro-maciel/template-back-end-node.js-services)
-- [Back-end Node.js GraphQL](https://github.com/ciro-maciel/template-back-end-node.js-graphql)
+- [Front-end React.js Application](https://github.com/ciro-maciel/template-front-end-react.js-application) by ciro-maciel
+- [Back-end Node.js Services](https://github.com/ciro-maciel/template-back-end-node.js-services) by ciro-maciel
+- [Back-end Node.js GraphQL](https://github.com/ciro-maciel/template-back-end-node.js-graphql) by ciro-maciel
 - [Sentry](https://github.com/getsentry/sentry)
 
 ##### Design 
@@ -83,8 +83,8 @@ https://lunchmoney.app/stack
 - [Favicon](http://favicon.io/)
 
 ##### Business
-- [Workspace by ciro-maciel](https://workspace.ciro-maciel.me/)
-- [Monitors by ciro-maciel](https://monitors.ciro-maciel.me/)
+- [Workspace](https://workspace.ciro-maciel.me/) by ciro-maciel
+- [Monitors](https://monitors.ciro-maciel.me/) by ciro-maciel
 - [Slack](https://slack.com/)
 - [Paddle](https://paddle.com/)
 - [Wise](https://wise.com/)
