@@ -90,6 +90,7 @@ https://lunchmoney.app/stack
 - [Wise](https://wise.com/)
 - [PandaDoc](https://www.pandadoc.com/)
 - [Loom](https://www.loom.com/)
+- [QuestDB](https://github.com/questdb/questdb)
 - [Querybook](https://www.querybook.org/)
 - [Hotjar](https://www.hotjar.com/)
 - [Smallchat](https://small.chat/)
