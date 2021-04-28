@@ -57,7 +57,7 @@ A melhor maneira de entender do que estamos falando é nos conhecer. Embora não
 -->
 
 
-Connect with me via [instagram](https://www.instagram.com/ciro.maciel/), [twitter](https://twitter.com/by_ciro_maciel), [github](https://github.com/ciro-maciel), [linkedin](https://www.linkedin.com/in/ciro-maciel/), [facebook](https://www.facebook.com/by.ciro.maciel) or [email](mailto:me@ciro-maciel.me)
+Connect with me via [instagram](https://www.instagram.com/ciro.maciel/), [twitter](https://twitter.com/by_ciro_maciel), [github](https://github.com/ciro-maciel), [linkedin](https://www.linkedin.com/in/ciro-maciel/) or [facebook](https://www.facebook.com/by.ciro.maciel).
 
 <!--
 <iframe width="640" height="480" style="border:1px solid #eeeeee;" src="https://3dviewer.net/embed.html#model=assets/models/solids.obj,assets/models/solids.mtl$camera=-1.4499,-7.7060,6.1154,3.1367,1.4671,0.0000,0.0000,2.2204e-16,-1.0000"></iframe>
