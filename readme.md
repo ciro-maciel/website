@@ -42,9 +42,11 @@ window.H.init(42)
 
 Hello! 👋My name is <strong style='font-size:18px'>Ciro</strong>.
 
-I am 👨🏽‍🏫Entrepreneur in <strong style='font-size:16px'>People</strong> and 👨🏽‍💻[Software engineer](/software-engineer) in a fantastic Family <a href="https://www.instagram.com/p/B_FxtLjJfeI/">(team 👨🏽👩🏻👦🏻)</a>
+👨🏽‍💻[Software engineer](/software-engineer) in a fantastic Family <a href="https://www.instagram.com/p/B_FxtLjJfeI/">(team 👨🏽👩🏻👦🏻)</a>
 
 <!--
+I am 👨🏽‍🏫Entrepreneur in <strong style='font-size:16px'>People</strong> and 👨🏽‍💻[Software engineer](/software-engineer) in a fantastic Family <a href="https://www.instagram.com/p/B_FxtLjJfeI/">(team 👨🏽👩🏻👦🏻)</a>
+
 uma história autêntica de sobrevivência pessoal, coragem e determinação - https://microangel.so/p/bootstrapping-2-0
 
 Se você está lendo isso, significa que está se perguntando o que temos a dizer e o que pretendemos. O que pretendemos é muito simples: queremos construir ótimos produtos com uma ótima equipe(Familia). Achamos que um grande produto é aquele que fornece valor para as <strong style='font-size:16px'>Pessoas</strong>, resolvendo uma dor real.
