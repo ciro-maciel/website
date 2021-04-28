@@ -42,7 +42,7 @@ window.H.init(42)
 
 Hello! 👋My name is <strong style='font-size:18px'>Ciro</strong>.
 
-👨🏽‍💻[Software engineer](/software-engineer) in a fantastic Family <a href="https://www.instagram.com/p/B_FxtLjJfeI/">(team 👨🏽👩🏻👦🏻)</a>
+I am 👨🏽‍💻[Software engineer](/software-engineer) in a fantastic Family <a href="https://www.instagram.com/p/B_FxtLjJfeI/">(team 👨🏽👩🏻👦🏻)</a>
 
 <!--
 I am 👨🏽‍🏫Entrepreneur in <strong style='font-size:16px'>People</strong> and 👨🏽‍💻[Software engineer](/software-engineer) in a fantastic Family <a href="https://www.instagram.com/p/B_FxtLjJfeI/">(team 👨🏽👩🏻👦🏻)</a>
