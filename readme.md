@@ -354,7 +354,7 @@ https://brianbalfour.com/
     padding: 0 10px;
 }
 .flex-row-container > .flex-row-item > h4 {
-  margin-top: 0px !important;
+  margin: 4px 0 !important;
  }
 .flex-row-container > .flex-row-item {
   text-align: center;
