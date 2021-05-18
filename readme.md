@@ -130,8 +130,8 @@ Você tem uma ideia brilhante ou uma necessidade que deve ser solucionada com So
   </div>
   <div class="flex-row-item">
     <h4>Mindset</h4>
-    - [Os 7 Hábitos das Pessoas Altamente Eficazes](https://amzn.to/3plKmid)
-    - [12 Regras Para a Vida: Um Antídoto Para o Caos](https://amzn.to/3u0ug0X)
+    <a href='https://amzn.to/3plKmid'>Os 7 Hábitos das Pessoas Altamente Eficazes</a>
+    <a href='https://amzn.to/3u0ug0X'>12 Regras Para a Vida: Um Antídoto Para o Caos</a>
   </div>
 </div>
 
