@@ -119,6 +119,7 @@ Você tem uma ideia brilhante ou uma necessidade que deve ser solucionada com So
 
 
 <!--
+https://www.indiehackers.com/post/26-saas-starter-kits-boilerplates-based-on-your-favourite-programming-language-framework-35387161e0
 https://www.saaspegasus.com/
 https://usegravity.app/
 -->
