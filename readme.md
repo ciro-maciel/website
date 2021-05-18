@@ -126,11 +126,13 @@ Você tem uma ideia brilhante ou uma necessidade que deve ser solucionada com So
 
     <h4>Saúde</h4>
     <a href='https://www.netflix.com/br/title/81157840'>Dieta de Gladiadores</a>
+    <br/>
     <a href='https://www.netflix.com/br/title/80174177'>What the Health</a>
   </div>
   <div class="flex-row-item">
     <h4>Mindset</h4>
     <a href='https://amzn.to/3plKmid'>Os 7 Hábitos das Pessoas Altamente Eficazes</a>
+    <br/>
     <a href='https://amzn.to/3u0ug0X'>12 Regras Para a Vida: Um Antídoto Para o Caos</a>
   </div>
 </div>
