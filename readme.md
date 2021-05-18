@@ -121,15 +121,15 @@ Você tem uma ideia brilhante ou uma necessidade que deve ser solucionada com So
 
 <div class="flex-row-container">
   <div class="flex-row-item">
-    ##### Estratégia
-    - [Dez bons conselhos de meu pai](https://amzn.to/3dgMgym)
+    <h4>Estratégia</h4>
+    <a href='https://amzn.to/3dgMgym'>Dez bons conselhos de meu pai</a>
 
-    ##### Saúde
-    - [Dieta de Gladiadores](https://www.netflix.com/br/title/81157840)
-    - [What the Health](https://www.netflix.com/br/title/80174177)
+    <h4>Saúde</h4>
+    <a href='https://www.netflix.com/br/title/81157840'>Dieta de Gladiadores</a>
+    <a href='https://www.netflix.com/br/title/80174177'>What the Health</a>
   </div>
   <div class="flex-row-item">
-    ##### Mindset
+    <h4>Mindset</h4>
     - [Os 7 Hábitos das Pessoas Altamente Eficazes](https://amzn.to/3plKmid)
     - [12 Regras Para a Vida: Um Antídoto Para o Caos](https://amzn.to/3u0ug0X)
   </div>
