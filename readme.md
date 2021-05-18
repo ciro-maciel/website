@@ -156,8 +156,9 @@ Você tem uma ideia brilhante ou uma necessidade que deve ser solucionada com So
       </li>
     </ul>
   </div>
+  
+ <!-- 
   <div class="flex-row-item">
-    <!--<h4>Salesforce specialist</h4>-->
     <ul>
       <li>
         <a href=''>Salesforce, o que é?</a>
@@ -173,6 +174,8 @@ Você tem uma ideia brilhante ou uma necessidade que deve ser solucionada com So
       </li>
     </ul>
   </div>
+  -->
+  
 </div>
 
  
@@ -180,7 +183,7 @@ Você tem uma ideia brilhante ou uma necessidade que deve ser solucionada com So
 #### Courses
 
 - [Você no Desenvolvimento de Software](https://www.udemy.com/course/draft/3844612)
-- [Salesforce, abrace seu Futuro!](https://www.udemy.com/course/draft/3844860)
+<!--- [Salesforce, abrace seu Futuro!](https://www.udemy.com/course/draft/3844860)-->
 - [Em nuvem, com escala, sem pagar nada!](https://www.udemy.com/course/draft/3846052)
 - [Back-end profissional com Node.js](https://www.udemy.com/course/draft/3844514)
 - [Front-end profissional com React.js](https://www.udemy.com/course/draft/3844452)
