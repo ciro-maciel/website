@@ -118,6 +118,12 @@ Você tem uma ideia brilhante ou uma necessidade que deve ser solucionada com So
 - [utility](https://github.com/ciro-maciel/utility) - utility package for development Applications
 
 
+<!--
+https://www.saaspegasus.com/
+https://usegravity.app/
+-->
+
+
 #### Mudanças de Comportamento
 
 <div class="flex-row-container">
