@@ -79,6 +79,7 @@ https://lunchmoney.app/stack
 - [Ant Design](https://ant.design/)
 - [AVATARZ](https://www.avatarz.design/)
 - [Free vectors icons and illustrations from Streamline](https://streamlineicons.com/)
+- [ThreeDee](https://threedee.design/)
 - [Superscene 4.1](https://craftwork.design/downloads/superscene-3d-constructor/)
 - [Favicon](http://favicon.io/)
 
