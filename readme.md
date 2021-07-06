@@ -88,8 +88,12 @@ Você tem uma ideia brilhante ou uma necessidade que deve ser solucionada com So
 
 <!--
 https://freelafacil.club.hotmart.com/login
-https://freelafacil.club.hotmart.com/login
-https://freelafacil.club.hotmart.com/login
+https://app.highlight.run/42/home
+https://withribbon.com/
+https://allears.cc/
+https://www.notion.so/A-calm-company-beab18bc339240bab3f4a9141a2cc0f5
+https://levels.io/
+https://app-vlc.hotmart.com/login
 ### our Products
 - [Proxy](http://proxy.ciro-maciel.me/) - all roads, One place
 - https://github.com/amitness/learning
