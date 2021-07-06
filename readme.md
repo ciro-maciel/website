@@ -87,6 +87,9 @@ Você tem uma ideia brilhante ou uma necessidade que deve ser solucionada com So
 - <a href="https://workspace.ciro-maciel.me/" target="_blank">Workspace</a> - simple, how Everything should be
 
 <!--
+https://freelafacil.club.hotmart.com/login
+https://freelafacil.club.hotmart.com/login
+https://freelafacil.club.hotmart.com/login
 ### our Products
 - [Proxy](http://proxy.ciro-maciel.me/) - all roads, One place
 - https://github.com/amitness/learning
